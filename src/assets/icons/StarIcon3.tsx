@@ -35,9 +35,9 @@ const StarIcon3: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         width='2.4248'
         height='1.95312'
         filterUnits='userSpaceOnUse'
-        color-interpolation-filters='sRGB'
+        colorInterpolationFilters='sRGB'
       >
-        <feFlood flood-opacity='0' result='BackgroundImageFix' />
+        <feFlood floodOpacity='0' result='BackgroundImageFix' />
         <feBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape' />
         <feGaussianBlur stdDeviation='0.25' result='effect1_foregroundBlur_5949_46625' />
       </filter>
@@ -48,9 +48,9 @@ const StarIcon3: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         width='2.42432'
         height='1.95312'
         filterUnits='userSpaceOnUse'
-        color-interpolation-filters='sRGB'
+        colorInterpolationFilters='sRGB'
       >
-        <feFlood flood-opacity='0' result='BackgroundImageFix' />
+        <feFlood floodOpacity='0' result='BackgroundImageFix' />
         <feBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape' />
         <feGaussianBlur stdDeviation='0.25' result='effect1_foregroundBlur_5949_46625' />
       </filter>

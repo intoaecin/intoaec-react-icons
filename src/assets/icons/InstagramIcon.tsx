@@ -34,7 +34,7 @@ const InstagramIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       >
         <stop stopColor='#3771C8' />
         <stop offset='0.128' stopColor='#3771C8' />
-        <stop offset='1' stopColor='#6600FF' stop-opacity='0' />
+        <stop offset='1' stopColor='#6600FF' stopOpacity='0' />
       </radialGradient>
     </defs>
   </svg>

@@ -1743,9 +1743,9 @@ const NoEstimateSentIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         width='126.348'
         height='101.836'
         filterUnits='userSpaceOnUse'
-        color-interpolation-filters='sRGB'
+        colorInterpolationFilters='sRGB'
       >
-        <feFlood flood-opacity='0' result='BackgroundImageFix' />
+        <feFlood floodOpacity='0' result='BackgroundImageFix' />
         <feColorMatrix
           in='SourceAlpha'
           type='matrix'
@@ -1766,9 +1766,9 @@ const NoEstimateSentIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         width='125.195'
         height='140.266'
         filterUnits='userSpaceOnUse'
-        color-interpolation-filters='sRGB'
+        colorInterpolationFilters='sRGB'
       >
-        <feFlood flood-opacity='0' result='BackgroundImageFix' />
+        <feFlood floodOpacity='0' result='BackgroundImageFix' />
         <feColorMatrix
           in='SourceAlpha'
           type='matrix'

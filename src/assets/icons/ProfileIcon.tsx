@@ -8,6 +8,7 @@ const ProfileIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     height='5616.000000pt'
     viewBox='0 0 3744.000000 5616.000000'
     preserveAspectRatio='xMidYMid meet'
+    {...props}
   >
     <g transform='translate(0.000000,5616.000000) scale(0.100000,-0.100000)' fill='#000000' stroke='none'>
       <path
