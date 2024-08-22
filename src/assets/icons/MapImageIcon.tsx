@@ -1,5 +1,6 @@
+import React from "react"
 const MapImageIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
-  <svg width='560' height='582' viewBox='0 0 560 582' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <svg width='560' height='582' viewBox='0 0 560 582' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
     <g opacity='0.05'>
       <path d='M235.085 395.22L209.975 477.215' stroke='white' strokeWidth='5' />
       <path d='M252.143 53.293L464.648 301.096L485.191 248.93' stroke='white' strokeWidth='9' />

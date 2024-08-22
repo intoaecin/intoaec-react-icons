@@ -1,7 +1,7 @@
 import React from 'react'
 
 const OpenAIConceptImg: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
-  <svg width='372' height='445' viewBox='0 0 372 445' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <svg width='372' height='445' viewBox='0 0 372 445' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
     <path
       d='M227.754 432.889L131.932 377.685L198.328 340.714L198.957 341.846L134.572 377.685L228.382 431.757L227.754 432.889Z'
       fill='#05D4F5'
