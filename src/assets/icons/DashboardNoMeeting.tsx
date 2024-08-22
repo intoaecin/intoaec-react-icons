@@ -1,3 +1,4 @@
+import React from "react"
 const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg {...props} viewBox='0 0 186 180' fill='none' xmlns='http://www.w3.org/2000/svg'>
     <g opacity='0.5'>
