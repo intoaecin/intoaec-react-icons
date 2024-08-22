@@ -20,8 +20,8 @@ const TriggerSelectionIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) =>
         y2='24.5547'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#005DBA' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#005DBA' />
       </linearGradient>
     </defs>
   </svg>

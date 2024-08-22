@@ -560,9 +560,9 @@ const UploadProposalIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M88.5854 36.4453L93.1876 47.242'
       stroke='#3399CC'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
     />
     <path d='M86.5462 18.6044L74.1826 25.1875L80.4679 36.9917L92.8314 30.4087L86.5462 18.6044Z' fill='#89AAFB' />
     <path d='M86.1973 19.6759L75.3252 25.4648L80.8463 35.834L91.7184 30.0451L86.1973 19.6759Z' fill='white' />
@@ -645,8 +645,8 @@ const UploadProposalIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='107.732'
         gradientUnits='userSpaceOnUse'
       >
-        <stop offset='0.2416' stop-color='#94DB79' />
-        <stop offset='0.734' stop-color='#94DB79' />
+        <stop offset='0.2416' stopColor='#94DB79' />
+        <stop offset='0.734' stopColor='#94DB79' />
       </linearGradient>
       <linearGradient
         id='paint1_linear_9627_3289'
@@ -656,8 +656,8 @@ const UploadProposalIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='109.681'
         gradientUnits='userSpaceOnUse'
       >
-        <stop offset='0.2416' stop-color='#94DB79' />
-        <stop offset='0.734' stop-color='#94DB79' />
+        <stop offset='0.2416' stopColor='#94DB79' />
+        <stop offset='0.734' stopColor='#94DB79' />
       </linearGradient>
     </defs>
   </svg>

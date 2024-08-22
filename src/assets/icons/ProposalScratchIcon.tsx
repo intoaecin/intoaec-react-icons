@@ -56,18 +56,18 @@ const ProposalScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
     <path
       d='M141.32 28.1552C139.765 26.968 137.586 26.6288 135.733 27.2816'
       stroke='#407BFF'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M134.895 27.6123C134.607 27.6923 134.335 27.8299 134.101 28.0155'
       stroke='#407BFF'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M137.349 36.6183C137.122 36.6183 136.933 36.5447 136.779 36.4007C136.626 36.2567 136.552 36.0807 136.552 35.8727C136.552 35.6647 136.626 35.4919 136.776 35.3511C136.927 35.2103 137.119 35.1431 137.349 35.1431C137.583 35.1431 137.775 35.2135 137.922 35.3511C138.072 35.4919 138.146 35.6647 138.146 35.8727C138.146 36.0807 138.069 36.2567 137.915 36.4007C137.765 36.5447 137.576 36.6183 137.349 36.6183ZM137.864 34.5607H136.834L136.575 30.8135H138.123L137.864 34.5607Z'
@@ -80,18 +80,18 @@ const ProposalScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
     <path
       d='M26.2753 30.9552C24.5473 29.6368 22.1281 29.2592 20.0737 29.9856'
       stroke='#407BFF'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M19.1425 30.3506C18.8225 30.437 18.5185 30.5906 18.2593 30.7986'
       stroke='#407BFF'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path d='M24.3745 36.002L23.4038 35.0312L19.5866 38.8485L20.5573 39.8192L24.3745 36.002Z' fill='white' />
     <path d='M20.477 35.0845L19.541 36.0889L23.4905 39.7695L24.4265 38.7652L20.477 35.0845Z' fill='white' />
@@ -109,7 +109,7 @@ const ProposalScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
       d='M122.347 112.249H52.4045C45.5917 96.5175 44.3853 56.5015 45.4637 17.6631H114.907C114.341 56.4791 115.71 91.3335 122.347 112.249Z'
       fill='white'
       stroke='#263238'
-      stroke-miterlimit='10'
+      strokeMiterlimit='10'
     />
     <path d='M57.7552 33.3972H53.5312V29.5732H66.84V33.3972H62.616V44.2004H57.7552V33.3972Z' fill='#263238' />
     <path
@@ -172,9 +172,9 @@ const ProposalScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
     <path
       d='M48.5293 13.3047C54.4589 13.3047 60.3853 13.3047 66.3149 13.3047'
       stroke='#407BFF'
-      stroke-width='0.75'
-      stroke-miterlimit='10'
-      stroke-linejoin='round'
+      strokeWidth='0.75'
+      strokeMiterlimit='10'
+      strokeLinejoin='round'
     />
     <path
       d='M62.466 53.1061C65.2308 50.9557 67.8228 48.5909 70.5844 46.4405C70.8276 46.2517 70.4852 45.9125 70.2452 46.1013C67.4804 48.2517 64.8884 50.6165 62.1268 52.7669C61.8836 52.9557 62.2228 53.2917 62.466 53.1061Z'
@@ -215,9 +215,9 @@ const ProposalScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
     <path
       d='M47.5243 13.3047H44.7563'
       stroke='#407BFF'
-      stroke-width='0.75'
-      stroke-miterlimit='10'
-      stroke-linejoin='round'
+      strokeWidth='0.75'
+      strokeMiterlimit='10'
+      strokeLinejoin='round'
     />
     <path
       d='M141.269 104.553C139.493 102.431 139.531 99.4741 141.355 97.9445C143.179 96.4149 146.101 96.8917 147.877 99.0133C149.653 101.135 149.614 104.092 147.79 105.621C145.966 107.154 143.045 106.674 141.269 104.553Z'
@@ -358,28 +358,28 @@ const ProposalScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
       opacity='0.3'
       d='M123.031 69.9779C123.559 69.8595 124.09 69.7667 124.624 69.6963'
       stroke='black'
-      stroke-width='0.25'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.25'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       opacity='0.3'
       d='M125.318 71.302C124.992 70.6844 124.854 69.9708 124.925 69.2764'
       stroke='black'
-      stroke-width='0.25'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.25'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       opacity='0.3'
       d='M126.282 68.7051C126.385 68.9707 126.583 69.1979 126.829 69.3355C127.079 69.4731 127.373 69.5243 127.655 69.4699'
       stroke='black'
-      stroke-width='0.25'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.25'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M127.647 56.2041C128.114 58.1401 129.077 59.9225 130.444 61.3753L135.708 57.3593C135.708 57.3593 132.373 50.2265 129.749 49.6249C127.064 49.0073 126.748 52.6905 127.647 56.2041Z'

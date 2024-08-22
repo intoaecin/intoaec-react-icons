@@ -1,7 +1,7 @@
 import React from 'react'
 
 const BotTrainerStatus: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
-  <svg width='194' height='199' viewBox='0 0 194 199' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <svg width='194' height='199' viewBox='0 0 194 199' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
     <g opacity='0.2'>
       <path
         opacity='0.3'

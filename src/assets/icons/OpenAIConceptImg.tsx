@@ -1103,11 +1103,11 @@ const OpenAIConceptImg: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='348.789'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#4BAAE3' />
-        <stop offset='0.1911' stop-color='#46A1E2' />
-        <stop offset='0.4999' stop-color='#3789E1' />
-        <stop offset='0.8858' stop-color='#2063DE' />
-        <stop offset='1' stop-color='#1856DD' />
+        <stop stopColor='#4BAAE3' />
+        <stop offset='0.1911' stopColor='#46A1E2' />
+        <stop offset='0.4999' stopColor='#3789E1' />
+        <stop offset='0.8858' stopColor='#2063DE' />
+        <stop offset='1' stopColor='#1856DD' />
       </linearGradient>
     </defs>
   </svg>

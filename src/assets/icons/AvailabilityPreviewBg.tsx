@@ -406,8 +406,8 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='-46.1643'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#34AFF9' />
-        <stop offset='1' stop-color='#3399FF' />
+        <stop stopColor='#34AFF9' />
+        <stop offset='1' stopColor='#3399FF' />
       </linearGradient>
       <linearGradient
         id='paint1_linear_9534_13986'
@@ -417,10 +417,10 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='530.82'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F4F4F4' />
-        <stop offset='0.0369' stop-color='#F0F1F1' />
-        <stop offset='0.6897' stop-color='#B3BEC0' />
-        <stop offset='1' stop-color='#9BAAAD' />
+        <stop stopColor='#F4F4F4' />
+        <stop offset='0.0369' stopColor='#F0F1F1' />
+        <stop offset='0.6897' stopColor='#B3BEC0' />
+        <stop offset='1' stopColor='#9BAAAD' />
       </linearGradient>
       <linearGradient
         id='paint2_linear_9534_13986'
@@ -430,8 +430,8 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='965.184'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#34AFF9' />
-        <stop offset='1' stop-color='#3399FF' />
+        <stop stopColor='#34AFF9' />
+        <stop offset='1' stopColor='#3399FF' />
       </linearGradient>
       <linearGradient
         id='paint3_linear_9534_13986'
@@ -441,10 +441,10 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='498.611'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F4F4F4' />
-        <stop offset='0.0369' stop-color='#F0F1F1' />
-        <stop offset='0.6897' stop-color='#B3BEC0' />
-        <stop offset='1' stop-color='#9BAAAD' />
+        <stop stopColor='#F4F4F4' />
+        <stop offset='0.0369' stopColor='#F0F1F1' />
+        <stop offset='0.6897' stopColor='#B3BEC0' />
+        <stop offset='1' stopColor='#9BAAAD' />
       </linearGradient>
       <linearGradient
         id='paint4_linear_9534_13986'
@@ -454,8 +454,8 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='4.14582'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#34AFF9' />
-        <stop offset='1' stop-color='#3399FF' />
+        <stop stopColor='#34AFF9' />
+        <stop offset='1' stopColor='#3399FF' />
       </linearGradient>
       <linearGradient
         id='paint5_linear_9534_13986'
@@ -465,10 +465,10 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='651.272'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F4F4F4' />
-        <stop offset='0.0369' stop-color='#F0F1F1' />
-        <stop offset='0.6897' stop-color='#B3BEC0' />
-        <stop offset='1' stop-color='#9BAAAD' />
+        <stop stopColor='#F4F4F4' />
+        <stop offset='0.0369' stopColor='#F0F1F1' />
+        <stop offset='0.6897' stopColor='#B3BEC0' />
+        <stop offset='1' stopColor='#9BAAAD' />
       </linearGradient>
       <linearGradient
         id='paint6_linear_9534_13986'
@@ -478,10 +478,10 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='535.968'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F4F4F4' />
-        <stop offset='0.0369' stop-color='#F0F1F1' />
-        <stop offset='0.6897' stop-color='#B3BEC0' />
-        <stop offset='1' stop-color='#9BAAAD' />
+        <stop stopColor='#F4F4F4' />
+        <stop offset='0.0369' stopColor='#F0F1F1' />
+        <stop offset='0.6897' stopColor='#B3BEC0' />
+        <stop offset='1' stopColor='#9BAAAD' />
       </linearGradient>
       <linearGradient
         id='paint7_linear_9534_13986'
@@ -491,8 +491,8 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='815.267'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#34AFF9' />
-        <stop offset='1' stop-color='#3CA2FF' />
+        <stop stopColor='#34AFF9' />
+        <stop offset='1' stopColor='#3CA2FF' />
       </linearGradient>
       <linearGradient
         id='paint8_linear_9534_13986'
@@ -502,8 +502,8 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='90.1304'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#34AFF9' />
-        <stop offset='1' stop-color='#3399FF' />
+        <stop stopColor='#34AFF9' />
+        <stop offset='1' stopColor='#3399FF' />
       </linearGradient>
       <linearGradient
         id='paint9_linear_9534_13986'
@@ -513,8 +513,8 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='191.671'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#34AFF9' />
-        <stop offset='1' stop-color='#3399FF' />
+        <stop stopColor='#34AFF9' />
+        <stop offset='1' stopColor='#3399FF' />
       </linearGradient>
       <linearGradient
         id='paint10_linear_9534_13986'
@@ -524,8 +524,8 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='720.475'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#34AFF9' />
-        <stop offset='1' stop-color='#3399FF' />
+        <stop stopColor='#34AFF9' />
+        <stop offset='1' stopColor='#3399FF' />
       </linearGradient>
       <linearGradient
         id='paint11_linear_9534_13986'
@@ -535,10 +535,10 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='757.027'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F4F4F4' />
-        <stop offset='0.0369' stop-color='#F0F1F1' />
-        <stop offset='0.6897' stop-color='#B3BEC0' />
-        <stop offset='1' stop-color='#9BAAAD' />
+        <stop stopColor='#F4F4F4' />
+        <stop offset='0.0369' stopColor='#F0F1F1' />
+        <stop offset='0.6897' stopColor='#B3BEC0' />
+        <stop offset='1' stopColor='#9BAAAD' />
       </linearGradient>
       <linearGradient
         id='paint12_linear_9534_13986'
@@ -548,10 +548,10 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='128.062'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F4F4F4' />
-        <stop offset='0.0369' stop-color='#F0F1F1' />
-        <stop offset='0.6897' stop-color='#B3BEC0' />
-        <stop offset='1' stop-color='#9BAAAD' />
+        <stop stopColor='#F4F4F4' />
+        <stop offset='0.0369' stopColor='#F0F1F1' />
+        <stop offset='0.6897' stopColor='#B3BEC0' />
+        <stop offset='1' stopColor='#9BAAAD' />
       </linearGradient>
       <linearGradient
         id='paint13_linear_9534_13986'
@@ -561,10 +561,10 @@ const AvailabilityPreviewBg: React.FC<React.SVGProps<SVGSVGElement>> = () => (
         y2='771.754'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F4F4F4' />
-        <stop offset='0.0369' stop-color='#F0F1F1' />
-        <stop offset='0.6897' stop-color='#B3BEC0' />
-        <stop offset='1' stop-color='#9BAAAD' />
+        <stop stopColor='#F4F4F4' />
+        <stop offset='0.0369' stopColor='#F0F1F1' />
+        <stop offset='0.6897' stopColor='#B3BEC0' />
+        <stop offset='1' stopColor='#9BAAAD' />
       </linearGradient>
       <clipPath id='clip0_9534_13986'>
         <rect width='1440' height='850' rx='20' fill='white' />

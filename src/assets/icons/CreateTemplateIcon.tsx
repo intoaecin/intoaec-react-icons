@@ -788,10 +788,10 @@ const CreateTemplateIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M265.061 48.6289L264.179 57.3579H246.56C246.63 55.6499 245.349 54.2989 243.627 54.2989C241.898 54.2989 240.351 55.6499 240.071 57.3579H222.452L223.334 48.6289H265.061Z'
       stroke='white'
-      stroke-width='2'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='2'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M261.771 48.6786C261.848 47.9436 262.324 47.7266 262.324 47.7266H225.924C225.924 47.7266 225.448 47.9436 225.371 48.6786C225.294 49.4346 225.728 49.6306 225.728 49.6306H262.128C262.128 49.6306 261.694 49.4346 261.771 48.6786Z'

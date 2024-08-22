@@ -364,10 +364,10 @@ const ProjectCompletedCongratulationIcon: React.FC<React.SVGProps<SVGSVGElement>
       opacity='0.2'
       d='M313.031 71.658C313.49 71.658 313.848 72.1178 313.848 72.5265C313.848 72.9864 313.235 73.8549 311.855 73.7017'
       stroke='black'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M317.169 67.7748C317.271 65.7311 316.351 60.8262 309.76 58.4759C303.221 56.1257 300.359 59.9576 300.359 59.9576C301.79 59.1912 303.374 58.7825 304.958 58.7825C303.067 59.0379 301.432 60.162 300.513 61.7969C300.972 61.286 302.812 61.5926 302.812 61.5926C303.578 60.9284 304.396 60.3663 305.315 59.9576C304.345 60.3663 303.731 62.1546 303.731 62.1546L305.622 63.0743C306.082 62.0013 306.848 61.1327 307.87 60.5707C307.206 61.4904 306.797 62.6144 306.797 63.7385C307.053 62.4611 307.87 61.3882 308.943 60.724C308.228 61.6948 307.666 62.8188 307.359 63.9939C308.228 64.8114 308.994 65.68 309.658 66.7018C309.914 65.3734 310.578 64.0961 311.6 63.2275C309.658 66.242 311.191 70.074 311.191 70.074C311.191 70.074 317.067 69.7674 317.169 67.7748Z'
@@ -401,26 +401,26 @@ const ProjectCompletedCongratulationIcon: React.FC<React.SVGProps<SVGSVGElement>
     <path
       d='M287.688 215.79C288.302 215.688 288.966 215.841 289.477 216.25'
       stroke='#3CA2FF'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M286.871 216.914C287.484 216.812 288.148 216.965 288.659 217.374'
       stroke='#3CA2FF'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M285.747 218.038C286.36 217.936 287.024 218.089 287.535 218.498'
       stroke='#3CA2FF'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       opacity='0.3'
@@ -443,26 +443,26 @@ const ProjectCompletedCongratulationIcon: React.FC<React.SVGProps<SVGSVGElement>
     <path
       d='M329.431 188.404C329.84 187.945 330.453 187.638 331.117 187.638'
       stroke='#3CA2FF'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M329.534 189.835C329.942 189.375 330.556 189.069 331.22 189.069'
       stroke='#3CA2FF'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M329.38 191.368C329.789 190.908 330.402 190.602 331.066 190.602'
       stroke='#3CA2FF'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       opacity='0.3'
@@ -596,8 +596,8 @@ const ProjectCompletedCongratulationIcon: React.FC<React.SVGProps<SVGSVGElement>
       opacity='0.3'
       d='M236.188 57.9141C236.29 56.9944 236.801 56.1258 237.567 55.6149C237.874 55.4105 238.333 55.2572 238.691 55.4616'
       stroke='black'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
     />
     <path
       d='M228.166 58.8847C229.239 58.7314 230.261 58.3737 231.13 57.7606C231.181 57.9139 231.232 58.1183 231.232 58.2715C231.283 58.5781 231.232 58.9358 231.079 59.2423C230.823 59.8554 230.21 60.5196 228.626 60.724C228.524 60.724 228.371 60.7751 228.269 60.7751C228.064 60.162 227.809 59.5489 227.553 58.9358C227.553 58.9358 227.809 58.9358 228.166 58.8847Z'
@@ -772,10 +772,10 @@ const ProjectCompletedCongratulationIcon: React.FC<React.SVGProps<SVGSVGElement>
       opacity='0.2'
       d='M149.942 66.2418C149.84 65.782 149.482 65.3221 149.074 65.0667C148.665 64.8112 148.154 64.709 147.643 64.8623'
       stroke='black'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M154.643 60.5194C154.694 60.5194 154.796 60.5194 154.847 60.4683C155.716 59.8041 156.533 60.1617 156.584 60.2128C156.687 60.2639 156.84 60.2128 156.891 60.0595C156.942 59.9062 156.84 59.753 156.738 59.7019C156.687 59.7019 155.614 59.242 154.541 60.0084C154.439 60.1106 154.439 60.2639 154.49 60.3661C154.541 60.4683 154.592 60.5194 154.643 60.5194Z'
@@ -886,8 +886,8 @@ const ProjectCompletedCongratulationIcon: React.FC<React.SVGProps<SVGSVGElement>
     <path
       d='M146.366 90.4596C146.366 90.4596 144.373 103.182 144.833 104.357C145.344 105.532 149.687 108.342 153.672 110.13C157.504 111.867 160.365 112.94 160.365 112.94'
       stroke='#263238'
-      stroke-width='0.75'
-      stroke-miterlimit='10'
+      strokeWidth='0.75'
+      strokeMiterlimit='10'
     />
     <path
       d='M143.249 80.6497C145.191 81.876 146.519 84.0219 146.673 86.3721C146.673 86.6276 147.081 86.6276 147.081 86.3721C146.928 83.9197 145.549 81.6205 143.454 80.3432C143.198 80.1899 143.045 80.5476 143.249 80.6497Z'
@@ -932,26 +932,26 @@ const ProjectCompletedCongratulationIcon: React.FC<React.SVGProps<SVGSVGElement>
     <path
       d='M112.186 38.2939C111.828 39.2136 111.522 40.1844 111.266 41.104'
       stroke='#FF7800'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M114.025 42.7901C113.003 42.0748 111.726 41.6149 110.449 41.5638'
       stroke='#FF7800'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M109.069 43.9141C109.989 44.425 110.449 45.6001 110.142 46.5709'
       stroke='#FF7800'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M77.1357 78.2996C80.8144 73.1393 99.7187 64.5046 99.7187 64.5046L106.872 48.2061L112.594 49.5345C112.594 49.5345 107.536 67.0082 106.156 69.5628C104.777 72.1174 89.5002 80.6499 89.5002 80.6499L77.1357 78.2996Z'
@@ -1105,8 +1105,8 @@ const ProjectCompletedCongratulationIcon: React.FC<React.SVGProps<SVGSVGElement>
       opacity='0.1'
       d='M71.3114 62.001C71.1071 61.1324 70.4939 60.366 69.6765 60.0084C69.3188 59.8551 68.859 59.7529 68.6035 60.0084'
       stroke='black'
-      stroke-width='0.5'
-      stroke-miterlimit='10'
+      strokeWidth='0.5'
+      strokeMiterlimit='10'
     />
     <path
       d='M70.7495 75.6428C70.7495 75.6428 72.7932 71.7597 73.0487 71.8108C73.3041 71.8108 78.9754 74.4165 78.9754 74.4165L79.3842 72.0663L82.3475 74.3654L81.3257 80.7009L70.7495 75.6428Z'

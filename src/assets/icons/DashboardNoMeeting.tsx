@@ -490,8 +490,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='54.1177'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#DAE3FE' />
-        <stop offset='1' stop-color='#E9EFFD' />
+        <stop stopColor='#DAE3FE' />
+        <stop offset='1' stopColor='#E9EFFD' />
       </linearGradient>
       <linearGradient
         id='paint1_linear_693_1556'
@@ -501,8 +501,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='170.182'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint2_linear_693_1556'
@@ -512,8 +512,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='199.403'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#4F52FF' />
-        <stop offset='1' stop-color='#4042E2' />
+        <stop stopColor='#4F52FF' />
+        <stop offset='1' stopColor='#4042E2' />
       </linearGradient>
       <linearGradient
         id='paint3_linear_693_1556'
@@ -523,8 +523,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='183.344'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint4_linear_693_1556'
@@ -534,8 +534,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='197.967'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#4F52FF' />
-        <stop offset='1' stop-color='#4042E2' />
+        <stop stopColor='#4F52FF' />
+        <stop offset='1' stopColor='#4042E2' />
       </linearGradient>
       <linearGradient
         id='paint5_linear_693_1556'
@@ -545,8 +545,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='98.5363'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint6_linear_693_1556'
@@ -556,8 +556,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='93.6855'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint7_linear_693_1556'
@@ -567,8 +567,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='95.2831'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint8_linear_693_1556'
@@ -578,8 +578,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='128.698'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint9_linear_693_1556'
@@ -589,8 +589,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='169.241'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint10_linear_693_1556'
@@ -600,8 +600,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='168.981'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint11_linear_693_1556'
@@ -611,8 +611,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='35.6196'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint12_linear_693_1556'
@@ -622,8 +622,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='12.4626'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint13_linear_693_1556'
@@ -633,8 +633,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='96.891'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint14_linear_693_1556'
@@ -644,8 +644,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='35.657'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint15_linear_693_1556'
@@ -655,8 +655,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='97.3684'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint16_linear_693_1556'
@@ -666,8 +666,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='27.0722'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
       <linearGradient
         id='paint17_linear_693_1556'
@@ -677,8 +677,8 @@ const DashboardNoMeeting: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='30.2463'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FEBBBA' />
-        <stop offset='1' stop-color='#FF928E' />
+        <stop stopColor='#FEBBBA' />
+        <stop offset='1' stopColor='#FF928E' />
       </linearGradient>
     </defs>
   </svg>

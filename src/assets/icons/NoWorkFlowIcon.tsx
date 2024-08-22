@@ -340,8 +340,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='30.4127'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint1_linear_12313_102639'
@@ -351,8 +351,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='282.891'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FDF53F' />
-        <stop offset='1' stop-color='#D93C65' />
+        <stop stopColor='#FDF53F' />
+        <stop offset='1' stopColor='#D93C65' />
       </linearGradient>
       <linearGradient
         id='paint2_linear_12313_102639'
@@ -362,8 +362,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='57.8899'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint3_linear_12313_102639'
@@ -373,8 +373,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='168.429'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F9B776' />
-        <stop offset='1' stop-color='#F47960' />
+        <stop stopColor='#F9B776' />
+        <stop offset='1' stopColor='#F47960' />
       </linearGradient>
       <linearGradient
         id='paint4_linear_12313_102639'
@@ -384,8 +384,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='200.254'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint5_linear_12313_102639'
@@ -395,8 +395,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='131.99'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F9B776' />
-        <stop offset='1' stop-color='#F47960' />
+        <stop stopColor='#F9B776' />
+        <stop offset='1' stopColor='#F47960' />
       </linearGradient>
       <linearGradient
         id='paint6_linear_12313_102639'
@@ -406,8 +406,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='203.429'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint7_linear_12313_102639'
@@ -417,8 +417,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='183.656'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#CB236D' />
-        <stop offset='1' stop-color='#4C246D' />
+        <stop stopColor='#CB236D' />
+        <stop offset='1' stopColor='#4C246D' />
       </linearGradient>
       <linearGradient
         id='paint8_linear_12313_102639'
@@ -428,8 +428,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='142.47'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint9_linear_12313_102639'
@@ -439,8 +439,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='176.157'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#53D8FF' />
-        <stop offset='1' stop-color='#3840F7' />
+        <stop stopColor='#53D8FF' />
+        <stop offset='1' stopColor='#3840F7' />
       </linearGradient>
       <linearGradient
         id='paint10_linear_12313_102639'
@@ -450,8 +450,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='163.135'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F9B776' />
-        <stop offset='1' stop-color='#F47960' />
+        <stop stopColor='#F9B776' />
+        <stop offset='1' stopColor='#F47960' />
       </linearGradient>
       <linearGradient
         id='paint11_linear_12313_102639'
@@ -461,8 +461,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='147.575'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F9B776' />
-        <stop offset='1' stop-color='#F47960' />
+        <stop stopColor='#F9B776' />
+        <stop offset='1' stopColor='#F47960' />
       </linearGradient>
       <linearGradient
         id='paint12_linear_12313_102639'
@@ -472,8 +472,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='133.12'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F9B776' />
-        <stop offset='1' stop-color='#F47960' />
+        <stop stopColor='#F9B776' />
+        <stop offset='1' stopColor='#F47960' />
       </linearGradient>
       <linearGradient
         id='paint13_linear_12313_102639'
@@ -483,8 +483,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='142.094'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint14_linear_12313_102639'
@@ -494,8 +494,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='132.158'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F9B776' />
-        <stop offset='1' stop-color='#F47960' />
+        <stop stopColor='#F9B776' />
+        <stop offset='1' stopColor='#F47960' />
       </linearGradient>
       <linearGradient
         id='paint15_linear_12313_102639'
@@ -505,8 +505,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='166.075'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint16_linear_12313_102639'
@@ -516,8 +516,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='154.014'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint17_linear_12313_102639'
@@ -527,8 +527,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='163.176'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#53D8FF' />
-        <stop offset='1' stop-color='#3840F7' />
+        <stop stopColor='#53D8FF' />
+        <stop offset='1' stopColor='#3840F7' />
       </linearGradient>
       <linearGradient
         id='paint18_linear_12313_102639'
@@ -538,8 +538,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='175.988'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint19_linear_12313_102639'
@@ -549,8 +549,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='181.34'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#CB236D' />
-        <stop offset='1' stop-color='#4C246D' />
+        <stop stopColor='#CB236D' />
+        <stop offset='1' stopColor='#4C246D' />
       </linearGradient>
       <linearGradient
         id='paint20_linear_12313_102639'
@@ -560,8 +560,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='171.304'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#CB236D' />
-        <stop offset='1' stop-color='#4C246D' />
+        <stop stopColor='#CB236D' />
+        <stop offset='1' stopColor='#4C246D' />
       </linearGradient>
       <linearGradient
         id='paint21_linear_12313_102639'
@@ -571,8 +571,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='157.261'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint22_linear_12313_102639'
@@ -582,8 +582,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='177.85'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint23_linear_12313_102639'
@@ -593,8 +593,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='179.074'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint24_linear_12313_102639'
@@ -604,8 +604,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='179.729'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint25_linear_12313_102639'
@@ -615,8 +615,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='180.385'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint26_linear_12313_102639'
@@ -626,8 +626,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='118.557'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint27_linear_12313_102639'
@@ -637,8 +637,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='105.078'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint28_linear_12313_102639'
@@ -648,8 +648,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='119.704'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#53D8FF' />
-        <stop offset='1' stop-color='#3840F7' />
+        <stop stopColor='#53D8FF' />
+        <stop offset='1' stopColor='#3840F7' />
       </linearGradient>
       <linearGradient
         id='paint29_linear_12313_102639'
@@ -659,8 +659,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='131.334'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#53D8FF' />
-        <stop offset='1' stop-color='#3840F7' />
+        <stop stopColor='#53D8FF' />
+        <stop offset='1' stopColor='#3840F7' />
       </linearGradient>
       <linearGradient
         id='paint30_linear_12313_102639'
@@ -670,8 +670,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='65.6193'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint31_linear_12313_102639'
@@ -681,8 +681,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='37.5932'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint32_linear_12313_102639'
@@ -692,8 +692,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='67.142'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#53D8FF' />
-        <stop offset='1' stop-color='#3840F7' />
+        <stop stopColor='#53D8FF' />
+        <stop offset='1' stopColor='#3840F7' />
       </linearGradient>
       <linearGradient
         id='paint33_linear_12313_102639'
@@ -703,8 +703,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='73.8138'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#53D8FF' />
-        <stop offset='1' stop-color='#3840F7' />
+        <stop stopColor='#53D8FF' />
+        <stop offset='1' stopColor='#3840F7' />
       </linearGradient>
       <linearGradient
         id='paint34_linear_12313_102639'
@@ -714,8 +714,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='55.0345'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint35_linear_12313_102639'
@@ -725,8 +725,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='40.9916'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#53D8FF' />
-        <stop offset='1' stop-color='#3840F7' />
+        <stop stopColor='#53D8FF' />
+        <stop offset='1' stopColor='#3840F7' />
       </linearGradient>
       <linearGradient
         id='paint36_linear_12313_102639'
@@ -736,8 +736,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='52.8538'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#CB236D' />
-        <stop offset='1' stop-color='#4C246D' />
+        <stop stopColor='#CB236D' />
+        <stop offset='1' stopColor='#4C246D' />
       </linearGradient>
       <linearGradient
         id='paint37_linear_12313_102639'
@@ -747,8 +747,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='56.4396'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#53D8FF' />
-        <stop offset='1' stop-color='#3840F7' />
+        <stop stopColor='#53D8FF' />
+        <stop offset='1' stopColor='#3840F7' />
       </linearGradient>
       <linearGradient
         id='paint38_linear_12313_102639'
@@ -758,8 +758,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='68.5633'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#53D8FF' />
-        <stop offset='1' stop-color='#3840F7' />
+        <stop stopColor='#53D8FF' />
+        <stop offset='1' stopColor='#3840F7' />
       </linearGradient>
       <linearGradient
         id='paint39_linear_12313_102639'
@@ -769,8 +769,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='61.1167'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint40_linear_12313_102639'
@@ -780,8 +780,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='60.1895'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#CB236D' />
-        <stop offset='1' stop-color='#4C246D' />
+        <stop stopColor='#CB236D' />
+        <stop offset='1' stopColor='#4C246D' />
       </linearGradient>
       <linearGradient
         id='paint41_linear_12313_102639'
@@ -791,8 +791,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='213.387'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#CB236D' />
-        <stop offset='1' stop-color='#4C246D' />
+        <stop stopColor='#CB236D' />
+        <stop offset='1' stopColor='#4C246D' />
       </linearGradient>
       <linearGradient
         id='paint42_linear_12313_102639'
@@ -802,9 +802,9 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='125.709'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#CB236D' />
-        <stop offset='0.0721043' stop-color='#C2236D' />
-        <stop offset='1' stop-color='#4C246D' />
+        <stop stopColor='#CB236D' />
+        <stop offset='0.0721043' stopColor='#C2236D' />
+        <stop offset='1' stopColor='#4C246D' />
       </linearGradient>
       <linearGradient
         id='paint43_linear_12313_102639'
@@ -814,8 +814,8 @@ const NoWorkFlowIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='48.2639'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#CB236D' />
-        <stop offset='1' stop-color='#4C246D' />
+        <stop stopColor='#CB236D' />
+        <stop offset='1' stopColor='#4C246D' />
       </linearGradient>
     </defs>
   </svg>

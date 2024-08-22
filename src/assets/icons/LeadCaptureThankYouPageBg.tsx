@@ -62,7 +62,7 @@ const LeadCaptureThankYouPageBg: React.FC<any> = (props: {
     >
       <g clipPath='url(#clip0_10289_214499)'>
         <rect width='1440' height='710' rx='20' fill='url(#paint0_linear_10289_214499)' />
-        <rect x='-265.873' y='-71.457' width='1194.71' height='993.614' fill='url(#pattern0)' fill-opacity='0.1' />
+        <rect x='-265.873' y='-71.457' width='1194.71' height='993.614' fill='url(#pattern0)' fillOpacity='0.1' />
         <g cursor='pointer' onClick={handleFacebook} clipPath='url(#clip1_10289_214499)'>
           <path
             d='M847.164 337.031C847.164 323.777 836.419 313.031 823.164 313.031C809.909 313.031 799.164 323.777 799.164 337.031C799.164 348.286 806.913 357.731 817.367 360.325V344.366H812.418V337.031H817.367V333.871C817.367 325.702 821.064 321.916 829.083 321.916C830.604 321.916 833.228 322.215 834.301 322.512V329.16C833.735 329.101 832.751 329.071 831.529 329.071C827.594 329.071 826.073 330.562 826.073 334.437V337.031H833.912L832.565 344.366H826.073V360.856C837.957 359.42 847.165 349.302 847.165 337.031H847.164Z'
@@ -113,29 +113,29 @@ const LeadCaptureThankYouPageBg: React.FC<any> = (props: {
           />
         </g>
         <g opacity='0.05'>
-          <path d='M1149.28 388.388L1127.24 460.33' stroke='white' stroke-width='5' />
-          <path d='M1164.24 88.3828L1350.7 305.807L1368.72 260.036' stroke='white' stroke-width='9' />
+          <path d='M1149.28 388.388L1127.24 460.33' stroke='white' strokeWidth='5' />
+          <path d='M1164.24 88.3828L1350.7 305.807L1368.72 260.036' stroke='white' strokeWidth='9' />
           <path
             d='M1019.35 187.852L1071.67 377.336L1169.31 390.499M1337.56 413.182L1204.61 395.259M1351.98 305.428L1282.43 485.96M1204.61 395.259L1169.31 390.499M1204.61 395.259L1195.51 298.843M1186.41 202.427L1195.51 298.843M1169.31 390.499L1137.48 223.036M1112.8 314.077L1195.51 298.843'
             stroke='white'
-            stroke-width='11.5'
+            strokeWidth='11.5'
           />
           <path
             d='M1079.07 246.021L1114.16 316.636M1149.91 388.793L1114.16 316.636M1057.24 317.352L1114.16 316.636'
             stroke='white'
-            stroke-width='9'
+            strokeWidth='9'
           />
-          <path d='M1317.3 394.411L1207.53 192.556' stroke='white' stroke-width='9' />
+          <path d='M1317.3 394.411L1207.53 192.556' stroke='white' strokeWidth='9' />
           <path
             d='M1138.36 431.566L1194.57 449.234M1250.78 466.902L1194.57 449.234M1194.57 449.234L1233.94 400.531'
             stroke='white'
-            stroke-width='11'
+            strokeWidth='11'
           />
-          <path d='M1198.49 312.883L1264.84 298.474' stroke='white' stroke-width='9' />
-          <path d='M1131.11 117.887L1210.62 197.185' stroke='white' stroke-width='13' />
-          <path d='M1080.85 250.98L1057.48 175.635' stroke='white' stroke-width='17.6475' />
-          <path d='M957.686 260.484L1177.29 80.3186L1191.32 68.2917' stroke='white' stroke-width='15' />
-          <path d='M1081.6 128.134L1141.5 218.128L983.935 287.523L1239.95 174.798' stroke='white' stroke-width='15' />
+          <path d='M1198.49 312.883L1264.84 298.474' stroke='white' strokeWidth='9' />
+          <path d='M1131.11 117.887L1210.62 197.185' stroke='white' strokeWidth='13' />
+          <path d='M1080.85 250.98L1057.48 175.635' stroke='white' strokeWidth='17.6475' />
+          <path d='M957.686 260.484L1177.29 80.3186L1191.32 68.2917' stroke='white' strokeWidth='15' />
+          <path d='M1081.6 128.134L1141.5 218.128L983.935 287.523L1239.95 174.798' stroke='white' strokeWidth='15' />
         </g>
 
         {/* projectLocationIconRef.current["el"] */}
@@ -166,10 +166,10 @@ const LeadCaptureThankYouPageBg: React.FC<any> = (props: {
           y2='825.468'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stop-color='#0D1C82' />
-          <stop offset='0.4749' stop-color='#0D1C82' />
-          <stop offset='0.475' stop-color='white' />
-          <stop offset='1' stop-color='white' />
+          <stop stopColor='#0D1C82' />
+          <stop offset='0.4749' stopColor='#0D1C82' />
+          <stop offset='0.475' stopColor='white' />
+          <stop offset='1' stopColor='white' />
         </linearGradient>
         <clipPath id='clip0_10289_214499'>
           <rect width='1440' height='710' rx='20' fill='white' />

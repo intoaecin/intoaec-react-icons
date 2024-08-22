@@ -12,10 +12,10 @@ const DashboardNoTemplates: React.FC<React.SVGProps<SVGSVGElement>> = (props) =>
       <path
         d='M47.4043 39.271L49.6605 55.413C49.834 56.6479 50.8616 57.4918 51.9577 57.2963L66.8969 54.6463'
         stroke='#262626'
-        stroke-width='0.12514'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.12514'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M35.0049 100.839C34.6806 98.5234 34.5801 96.635 34.6943 95.1684C34.8085 93.7019 35.2378 92.2972 35.9777 90.9644C36.4024 90.1668 36.9094 89.4516 37.4985 88.8238C38.0877 88.196 38.6221 87.5477 39.1016 86.8839C39.5766 86.215 39.9602 85.4946 40.2434 84.7227C40.5266 83.9509 40.5905 82.9938 40.4307 81.8566C40.1612 79.9372 39.5035 78.6765 38.4576 78.0796C37.4118 77.4827 36.2426 77.2975 34.9546 77.5239C33.1095 77.8532 31.922 78.656 31.3877 79.9372C30.8533 81.2185 30.6341 82.8548 30.7346 84.8462L24.0026 86.04C23.7331 84.1207 23.7697 82.3248 24.1076 80.6576C24.4456 78.9904 25.0485 77.5188 25.9254 76.2375C26.7977 74.9562 27.9166 73.8962 29.2776 73.0523C30.6387 72.2084 32.1915 71.6321 33.9316 71.3234C37.6904 70.6544 40.7778 70.9941 43.1938 72.3319C45.6098 73.6698 47.0896 76.2838 47.6331 80.1636C47.8066 81.4192 47.8477 82.5358 47.7518 83.5186C47.6559 84.5015 47.4367 85.4122 47.0896 86.2561C46.7425 87.1 46.2858 87.913 45.7194 88.7003C45.1531 89.4825 44.5 90.3006 43.7601 91.1548C43.0887 91.9575 42.5544 92.6831 42.1662 93.3366C41.778 93.9901 41.5039 94.6487 41.3486 95.3177C41.1934 95.9866 41.1294 96.671 41.1523 97.3708C41.1797 98.0706 41.2527 98.8527 41.3715 99.7121L35.0049 100.839ZM36.3796 112.226L35.3017 104.523L42.3489 103.273L43.4267 110.976L36.3796 112.226Z'
@@ -66,10 +66,10 @@ const DashboardNoTemplates: React.FC<React.SVGProps<SVGSVGElement>> = (props) =>
       <path
         d='M77.0137 81.3936L78.1007 83.848C78.3016 84.3009 78.1144 84.8463 77.6988 85.0316L76.251 85.6696'
         stroke='#262626'
-        stroke-width='0.778655'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.778655'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M66.6092 84.5479C66.5498 85.8806 67.4632 87.0178 68.6507 87.0795C69.8336 87.1464 70.8429 86.1173 70.8977 84.7794C70.9571 83.4467 70.0437 82.3095 68.8562 82.2478C67.6733 82.186 66.664 83.2151 66.6092 84.5479Z'
@@ -78,18 +78,18 @@ const DashboardNoTemplates: React.FC<React.SVGProps<SVGSVGElement>> = (props) =>
       <path
         d='M56.374 83.7964C56.4197 83.534 56.7166 81.769 55.6524 80.2408C54.8212 79.0418 53.6794 78.7485 53.3643 78.6816'
         stroke='#262626'
-        stroke-width='0.778655'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.778655'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M55.721 80.6112C55.6525 80.5855 54.8259 80.287 54.1225 80.8891C53.5425 81.3882 53.474 82.1292 53.4648 82.2527'
         stroke='#262626'
-        stroke-width='0.778655'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.778655'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M83.097 83.925C83.5081 83.9455 83.878 84.1051 84.1977 84.3469C83.9557 85.6179 83.6086 87.1462 83.1016 88.7465C83.0331 88.7516 82.96 88.7619 82.8915 88.7567C81.7086 88.6899 80.7952 87.5578 80.85 86.2251C80.9048 84.8872 81.9141 83.8581 83.097 83.925Z'
@@ -98,10 +98,10 @@ const DashboardNoTemplates: React.FC<React.SVGProps<SVGSVGElement>> = (props) =>
       <path
         d='M71.6693 77.6523L73.4596 79.937L70.8975 80.9507'
         stroke='#262626'
-        stroke-width='0.778655'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.778655'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M70.8975 90.5423L77.3326 91.3707C77.3143 91.2215 77.0312 89.0809 75.5057 88.3039C74.0077 87.5321 71.9022 88.3811 70.8975 90.5423Z'
@@ -118,10 +118,10 @@ const DashboardNoTemplates: React.FC<React.SVGProps<SVGSVGElement>> = (props) =>
       <path
         d='M72.5645 115.556C75.2362 126.089 76.8941 134.903 77.94 141.33'
         stroke='#262626'
-        stroke-width='0.456716'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.456716'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path opacity='0.5' d='M44.7325 113.667L32.7939 143.965H40.0192L44.7325 113.667Z' fill='#0099FF' />
       <path d='M84.8294 125.067L78.3789 123.008L64.3053 178.971L70.7558 181.03L84.8294 125.067Z' fill='#4450E4' />
@@ -141,35 +141,35 @@ const DashboardNoTemplates: React.FC<React.SVGProps<SVGSVGElement>> = (props) =>
       <path
         d='M77.4645 157.73C77.4645 157.73 73.007 156.793 70.7554 155.615C68.5038 154.436 67.668 153.788 67.668 153.788'
         stroke='#262626'
-        stroke-width='0.685074'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.685074'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M76.707 162.448C76.707 162.448 71.5416 161.867 69.4498 160.508C67.3535 159.15 66.6045 158.265 66.6045 158.265'
         stroke='#262626'
-        stroke-width='0.685074'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.685074'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M75.003 167.836C72.7925 167.738 71.1301 167.182 69.97 166.647C68.0381 165.752 65.6221 164.054 65.6221 164.054'
         stroke='#262626'
-        stroke-width='0.685074'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.685074'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path d='M57.9728 150.654L57.2969 168.716L59.416 167.97L58.7355 150.567L57.9728 150.654Z' fill='#FF7769' />
       <path
         d='M43.8972 115.556C43.8972 115.556 32.799 143.049 33.1095 143.754C33.4247 144.464 58.4344 143.281 58.4344 143.281L57.2652 174.587C57.2652 174.587 37.7361 173.198 30.0084 171.036C22.2808 168.875 13.457 165.489 13.457 165.489'
         stroke='#262626'
-        stroke-width='0.456716'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.456716'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M92.5375 69.1624C92.364 69.5947 92.3366 70.0989 92.4964 70.5775C92.8161 71.5397 93.7707 72.0286 94.6247 71.6684C96.1775 71.0097 97.8583 70.737 99.4887 70.8656C101.311 71.0149 102.704 71.6324 103.375 71.9874C104.17 72.4093 105.819 73.2841 107.052 75.1932C108.765 77.8535 108.623 80.9615 108.481 82.1758C108.363 83.1947 109.002 84.1312 109.906 84.265C110.811 84.3988 111.642 83.6784 111.761 82.6595C111.998 80.6013 112.053 76.6082 109.728 73.0011C107.997 70.3151 105.746 69.1264 104.782 68.617C103.709 68.051 101.964 67.3357 99.7308 67.1556C97.6299 66.9858 95.4605 67.3409 93.4646 68.1848C93.0353 68.3648 92.7111 68.725 92.5375 69.1624Z'
@@ -178,10 +178,10 @@ const DashboardNoTemplates: React.FC<React.SVGProps<SVGSVGElement>> = (props) =>
       <path
         d='M34.6439 112.762C30.6065 116.806 25.4228 122.842 20.6912 131.209C15.8317 139.797 13.1417 147.855 11.6025 153.783'
         stroke='white'
-        stroke-width='0.456716'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.456716'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M112.838 181.04H63.4073C61.4799 181.04 59.918 179.28 59.918 177.109V174.592H112.838V181.04Z'
@@ -202,28 +202,28 @@ const DashboardNoTemplates: React.FC<React.SVGProps<SVGSVGElement>> = (props) =>
       <path
         d='M162.177 143.965C160.957 148.421 157.989 157.138 150.878 165.283C143.862 173.316 136.295 176.81 132.376 178.276'
         stroke='#262626'
-        stroke-width='0.456716'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.456716'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path d='M130.476 160.637H128.59L129.791 152.028H131.677L130.476 160.637Z' fill='#3399FF' />
       <path d='M132.952 160.637H131.065L131.892 154.699H133.778L132.952 160.637Z' fill='#3399FF' />
       <path
         d='M77.7942 59.1846C75.0722 60.9135 68.2032 65.8173 63.6954 75.7022C59.2013 85.5613 59.6534 94.6794 59.9868 98.1836'
         stroke='#262626'
-        stroke-width='0.456716'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.456716'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M81.1191 163.575L80.0596 155.152'
         stroke='#262626'
-        stroke-width='0.456716'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.456716'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M185.665 155.167H115.011C113.39 155.167 112.079 153.69 112.079 151.864V93.5838C112.079 91.7571 113.39 90.2803 115.011 90.2803H185.665C187.287 90.2803 188.597 91.7571 188.597 93.5838V151.864C188.597 153.685 187.282 155.167 185.665 155.167Z'
@@ -258,10 +258,10 @@ const DashboardNoTemplates: React.FC<React.SVGProps<SVGSVGElement>> = (props) =>
       <path
         d='M115.011 90.2803H185.665C187.286 90.2803 188.597 91.7571 188.597 93.5838V151.864'
         stroke='#262626'
-        stroke-width='0.12514'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='0.12514'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M194.32 192.01H4.86957C2.17951 192.01 0.000976562 189.556 0.000976562 186.525C0.000976562 183.494 2.17951 181.04 4.86957 181.04H194.32C197.01 181.04 199.189 183.494 199.189 186.525C199.189 189.556 197.01 192.01 194.32 192.01Z'

@@ -13,10 +13,10 @@ const NoDataColorIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M103.968 77.0449L108.908 108.415C109.288 110.815 111.538 112.455 113.938 112.075L146.648 106.925'
       stroke='#262626'
-      stroke-width='0.274'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.274'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M76.8183 196.695C76.1084 192.195 75.8883 188.525 76.1383 185.675C76.3883 182.825 77.3284 180.095 78.9484 177.505C79.8784 175.955 80.9883 174.565 82.2783 173.345C83.5683 172.125 84.7383 170.865 85.7883 169.575C86.8284 168.275 87.6684 166.875 88.2883 165.375C88.9083 163.875 89.0484 162.015 88.6984 159.805C88.1084 156.075 86.6684 153.625 84.3784 152.465C82.0884 151.305 79.5283 150.945 76.7083 151.385C72.6684 152.025 70.0684 153.585 68.8984 156.075C67.7284 158.565 67.2484 161.745 67.4684 165.615L52.7284 167.935C52.1384 164.205 52.2183 160.715 52.9583 157.475C53.6983 154.235 55.0184 151.375 56.9384 148.885C58.8484 146.395 61.2983 144.335 64.2783 142.695C67.2583 141.055 70.6584 139.935 74.4684 139.335C82.6984 138.035 89.4583 138.695 94.7483 141.295C100.038 143.895 103.278 148.975 104.468 156.515C104.848 158.955 104.938 161.125 104.728 163.035C104.518 164.945 104.038 166.715 103.278 168.355C102.518 169.995 101.518 171.575 100.278 173.105C99.0384 174.625 97.6083 176.215 95.9883 177.875C94.5183 179.435 93.3483 180.845 92.4983 182.115C91.6483 183.385 91.0483 184.665 90.7083 185.965C90.3683 187.265 90.2283 188.595 90.2783 189.955C90.3383 191.315 90.4984 192.835 90.7584 194.505L76.8183 196.695ZM79.8284 218.825L77.4684 203.855L92.8983 201.425L95.2584 216.395L79.8284 218.825Z'
@@ -67,10 +67,10 @@ const NoDataColorIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M168.798 158.905L171.178 163.675C171.618 164.555 171.208 165.615 170.298 165.975L167.128 167.215'
       stroke='#262626'
-      stroke-width='1.7049'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='1.7049'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M146.018 165.035C145.888 167.625 147.888 169.835 150.488 169.955C153.078 170.085 155.288 168.085 155.408 165.485C155.538 162.895 153.538 160.685 150.938 160.565C148.348 160.445 146.138 162.445 146.018 165.035Z'
@@ -79,18 +79,18 @@ const NoDataColorIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M123.608 163.575C123.708 163.065 124.358 159.635 122.028 156.665C120.208 154.335 117.708 153.765 117.018 153.635'
       stroke='#262626'
-      stroke-width='1.7049'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='1.7049'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M122.178 157.385C122.028 157.335 120.218 156.755 118.678 157.925C117.408 158.895 117.258 160.335 117.238 160.575'
       stroke='#262626'
-      stroke-width='1.7049'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='1.7049'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M182.118 163.825C183.018 163.865 183.828 164.175 184.528 164.645C183.998 167.115 183.238 170.085 182.128 173.195C181.978 173.205 181.818 173.225 181.668 173.215C179.078 173.085 177.078 170.885 177.198 168.295C177.318 165.695 179.528 163.695 182.118 163.825Z'
@@ -99,10 +99,10 @@ const NoDataColorIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M157.098 151.635L161.018 156.075L155.408 158.045'
       stroke='#262626'
-      stroke-width='1.7049'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='1.7049'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M155.408 176.685L169.498 178.295C169.458 178.005 168.838 173.845 165.498 172.335C162.218 170.835 157.608 172.485 155.408 176.685Z'
@@ -119,9 +119,9 @@ const NoDataColorIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M159.058 225.295C164.908 245.765 168.538 262.895 170.828 275.385'
       stroke='#262626'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path opacity='0.5' d='M98.1184 221.625L71.9784 280.505H87.7984L98.1184 221.625Z' fill='#0099FF' />
     <path d='M185.913 243.78L171.789 239.779L140.975 348.534L155.098 352.536L185.913 243.78Z' fill='#4450E4' />
@@ -141,34 +141,34 @@ const NoDataColorIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M169.788 307.255C169.788 307.255 160.028 305.435 155.098 303.145C150.168 300.855 148.338 299.595 148.338 299.595'
       stroke='#262626'
-      stroke-width='1.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='1.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M168.128 316.425C168.128 316.425 156.818 315.295 152.238 312.655C147.648 310.015 146.008 308.295 146.008 308.295'
       stroke='#262626'
-      stroke-width='1.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='1.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M164.398 326.895C159.558 326.705 155.918 325.625 153.378 324.585C149.148 322.845 143.858 319.545 143.858 319.545'
       stroke='#262626'
-      stroke-width='1.5'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='1.5'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path d='M127.108 293.505L125.628 328.605L130.268 327.155L128.778 293.335L127.108 293.505Z' fill='#FF7769' />
     <path
       d='M96.2884 225.295C96.2884 225.295 71.9884 278.725 72.6684 280.095C73.3584 281.475 128.118 279.175 128.118 279.175L125.558 340.015C125.558 340.015 82.7984 337.315 65.8784 333.115C48.9584 328.915 29.6384 322.335 29.6384 322.335'
       stroke='#262626'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M202.788 135.135C202.408 135.975 202.348 136.955 202.698 137.885C203.398 139.755 205.488 140.705 207.358 140.005C210.758 138.725 214.438 138.195 218.008 138.445C221.998 138.735 225.048 139.935 226.518 140.625C228.258 141.445 231.868 143.145 234.568 146.855C238.318 152.025 238.008 158.065 237.698 160.425C237.438 162.405 238.838 164.225 240.818 164.485C242.798 164.745 244.618 163.345 244.878 161.365C245.398 157.365 245.518 149.605 240.428 142.595C236.638 137.375 231.708 135.065 229.598 134.075C227.248 132.975 223.428 131.585 218.538 131.235C213.938 130.905 209.188 131.595 204.818 133.235C203.878 133.585 203.168 134.285 202.788 135.135Z'
@@ -177,9 +177,9 @@ const NoDataColorIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M76.0284 219.865C67.1884 227.725 55.8384 239.455 45.4784 255.715C34.8384 272.405 28.9484 288.065 25.5784 299.585'
       stroke='white'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M247.238 352.555H139.008C134.788 352.555 131.368 349.135 131.368 344.915V340.025H247.238V352.555Z'
@@ -200,25 +200,25 @@ const NoDataColorIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M355.268 280.505C352.598 289.165 346.098 306.105 330.528 321.935C315.168 337.545 298.598 344.335 290.018 347.185'
       stroke='#262626'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path d='M285.858 312.905H281.728L284.358 296.175H288.488L285.858 312.905Z' fill='#3399FF' />
     <path d='M291.278 312.905H287.148L288.958 301.365H293.088L291.278 312.905Z' fill='#3399FF' />
     <path
       d='M170.508 115.745C164.548 119.105 149.508 128.635 139.638 147.845C129.798 167.005 130.788 184.725 131.518 191.535'
       stroke='#262626'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M177.788 318.615L175.468 302.245'
       stroke='#262626'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M406.698 302.275H251.998C248.448 302.275 245.578 299.405 245.578 295.855V182.595C245.578 179.045 248.448 176.175 251.998 176.175H406.698C410.248 176.175 413.118 179.045 413.118 182.595V295.855C413.118 299.395 410.238 302.275 406.698 302.275Z'
@@ -253,10 +253,10 @@ const NoDataColorIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M251.998 176.175H406.698C410.248 176.175 413.118 179.045 413.118 182.595V295.855'
       stroke='#262626'
-      stroke-width='0.274'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.274'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M425.648 373.875H10.8383C4.94834 373.875 0.178345 369.105 0.178345 363.215C0.178345 357.325 4.94834 352.555 10.8383 352.555H425.648C431.538 352.555 436.308 357.325 436.308 363.215C436.308 369.105 431.538 373.875 425.648 373.875Z'

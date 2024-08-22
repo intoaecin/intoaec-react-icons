@@ -1,7 +1,7 @@
 import React from 'react'
 
 const CreateQuestionnaireIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
-  <svg width='310' height='222' viewBox='0 0 310 222' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <svg width='310' height='222' viewBox='0 0 310 222' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
     <g opacity='0.35'>
       <path
         d='M286.653 156.174C281.724 138.481 297.398 137.802 297.745 115.006C297.884 105.68 292.775 96.188 280.492 91.8314C274.45 89.6931 268.435 88.221 263.059 84.817C250.815 77.0632 251.035 62.3016 247.691 49.7249C240.357 22.0936 182.883 0.124412 154.299 0.837178C133.695 1.3501 124.189 11.2822 105.404 28.7683C92.5546 40.7321 69.9059 39.653 76.5073 70.5684C82.3827 98.1064 68.5204 96.0614 55.8238 106.227C43.1539 116.372 33.8746 128.476 38.9172 142.211C44.4795 157.359 10.4399 166.052 4.37141 185.683C0.254684 198.999 21.8841 200.125 36.6058 200.125C51.3274 200.125 177.267 198.993 230.531 200.572C244.867 200.998 290.61 204.901 297.085 187.029C301.482 174.859 290.097 168.53 286.653 156.174Z'
@@ -11,8 +11,8 @@ const CreateQuestionnaireIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props)
     <path
       d='M303.008 150.664C292.363 175.438 271.852 195.662 247.265 206.62'
       stroke='#C3ECFE'
-      stroke-width='1.393'
-      stroke-miterlimit='10'
+      strokeWidth='1.393'
+      strokeMiterlimit='10'
     />
     <path
       d='M299.883 157.25C303.6 154.152 306.145 149.683 306.904 144.906C307.091 143.734 307.131 142.402 306.345 141.516C306.132 141.269 305.845 141.07 305.519 141.036C304.999 140.983 304.54 141.369 304.187 141.762C302.335 143.841 301.695 146.712 301.375 149.476C301.062 152.247 300.456 154.272 299.883 157.25Z'
@@ -70,8 +70,8 @@ const CreateQuestionnaireIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props)
     <path
       d='M71.804 111.773C78.0323 145.806 101.753 176.142 133.282 190.391'
       stroke='#C3ECFE'
-      stroke-width='1.393'
-      stroke-miterlimit='10'
+      strokeWidth='1.393'
+      strokeMiterlimit='10'
     />
     <path
       d='M73.377 118.904C70.446 115.06 68.9605 110.131 69.2803 105.308C69.3602 104.122 69.62 102.817 70.5859 102.131C70.8524 101.944 71.1721 101.811 71.4985 101.851C72.0181 101.917 72.3845 102.39 72.6309 102.85C73.9699 105.288 73.9566 108.232 73.6501 110.997C73.3504 113.755 73.4836 115.866 73.377 118.904Z'
@@ -120,8 +120,8 @@ const CreateQuestionnaireIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props)
     <path
       d='M10.4404 159.3C44.9996 157.722 79.8918 174.029 100.862 201.547'
       stroke='#C3ECFE'
-      stroke-width='1.393'
-      stroke-miterlimit='10'
+      strokeWidth='1.393'
+      strokeMiterlimit='10'
     />
     <path
       d='M17.7342 159.238C13.331 157.239 8.19509 156.906 3.56544 158.305C2.43301 158.645 1.21398 159.198 0.76101 160.29C0.634444 160.59 0.581153 160.936 0.694396 161.243C0.874253 161.736 1.42049 161.982 1.92675 162.122C4.60462 162.881 7.46901 162.202 10.0936 161.283C12.7115 160.363 14.7965 160.024 17.7342 159.238Z'
@@ -209,25 +209,25 @@ const CreateQuestionnaireIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props)
       <path d='M255.945 102.447L255.62 104.25L261.631 105.335L261.957 103.533L255.945 102.447Z' fill='#66CCFF' />
     </g>
     <path d='M279.121 109.054L269.312 105.188L248.397 158.247L258.207 162.114L279.121 109.054Z' fill='#C3ECFE' />
-    <path d='M275.221 109.508L278.458 110.78' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M274.135 112.266L277.373 113.538' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M273.05 115.016L276.28 116.295' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M270.385 117.156L275.195 119.048' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M270.878 120.531L274.109 121.804' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M269.792 123.289L273.023 124.561' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M268.707 126.039L271.937 127.318' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M266.035 128.18L270.851 130.072' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M266.535 131.555L269.765 132.827' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M265.448 134.312L268.679 135.585' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M264.364 137.07L267.594 138.343' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M261.692 139.203L266.508 141.102' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M262.185 142.578L265.422 143.85' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M261.099 145.336L264.337 146.608' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M260.013 148.094L263.244 149.366' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M257.349 150.227L262.158 152.125' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M257.841 153.609L261.072 154.882' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M256.756 156.367L259.987 157.64' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
-    <path d='M255.67 159.125L258.901 160.397' stroke='#CCF3FF' stroke-width='1.393' stroke-miterlimit='10' />
+    <path d='M275.221 109.508L278.458 110.78' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M274.135 112.266L277.373 113.538' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M273.05 115.016L276.28 116.295' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M270.385 117.156L275.195 119.048' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M270.878 120.531L274.109 121.804' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M269.792 123.289L273.023 124.561' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M268.707 126.039L271.937 127.318' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M266.035 128.18L270.851 130.072' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M266.535 131.555L269.765 132.827' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M265.448 134.312L268.679 135.585' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M264.364 137.07L267.594 138.343' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M261.692 139.203L266.508 141.102' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M262.185 142.578L265.422 143.85' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M261.099 145.336L264.337 146.608' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M260.013 148.094L263.244 149.366' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M257.349 150.227L262.158 152.125' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M257.841 153.609L261.072 154.882' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M256.756 156.367L259.987 157.64' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
+    <path d='M255.67 159.125L258.901 160.397' stroke='#CCF3FF' strokeWidth='1.393' strokeMiterlimit='10' />
     <path
       d='M265.39 210.559H216.483L208.269 136.578C208.162 135.639 208.902 134.812 209.848 134.812H272.025C272.971 134.812 273.71 135.632 273.604 136.578L265.39 210.559Z'
       fill='#9BDFFF'
@@ -270,273 +270,273 @@ const CreateQuestionnaireIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props)
       <path
         d='M132.229 69.4688H148.849'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M186.139 74.7734H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M132.229 74.7734H180.664'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M132.229 80.0625H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M177.619 85.3594H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M132.229 85.3594H172.357'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M154.298 69.4688H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
     </g>
     <g opacity='0.15'>
       <path
         d='M132.229 107.555H148.849'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M186.139 112.859H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M132.229 112.859H180.664'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M132.229 118.148H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M177.619 123.445H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M132.229 123.445H172.357'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M154.298 107.555H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
     </g>
     <g opacity='0.15'>
       <path
         d='M132.229 144.305H148.849'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M186.139 149.609H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M132.229 149.609H180.664'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M132.229 154.898H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M177.619 160.195H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M132.229 160.195H172.357'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M154.298 144.305H198.77'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
     </g>
     <g opacity='0.15'>
       <path
         d='M132.229 181.719H148.849'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M186.139 187.023H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M132.229 187.023H180.664'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M132.229 192.312H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M177.619 197.609H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M132.229 197.609H172.357'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
       <path
         d='M154.298 181.719H198.769'
         stroke='#3399FF'
-        stroke-width='3.1215'
-        stroke-miterlimit='10'
-        stroke-linecap='round'
-        stroke-linejoin='round'
+        strokeWidth='3.1215'
+        strokeMiterlimit='10'
+        strokeLinecap='round'
+        strokeLinejoin='round'
       />
     </g>
     <path
       d='M125.222 83.1107H112.792C112.019 83.1107 111.393 82.4845 111.393 81.7118V69.2817C111.393 68.509 112.019 67.8828 112.792 67.8828H125.222C125.995 67.8828 126.621 68.509 126.621 69.2817V81.7118C126.621 82.4845 125.995 83.1107 125.222 83.1107Z'
       stroke='#2396B5'
-      stroke-width='1.1566'
-      stroke-miterlimit='10'
+      strokeWidth='1.1566'
+      strokeMiterlimit='10'
     />
     <path
       d='M125.222 121.072H112.792C112.019 121.072 111.393 120.445 111.393 119.673V107.243C111.393 106.47 112.019 105.844 112.792 105.844H125.222C125.995 105.844 126.621 106.47 126.621 107.243V119.673C126.621 120.445 125.995 121.072 125.222 121.072Z'
       stroke='#2396B5'
-      stroke-width='1.1566'
-      stroke-miterlimit='10'
+      strokeWidth='1.1566'
+      strokeMiterlimit='10'
     />
     <path
       d='M125.222 159.033H112.792C112.019 159.033 111.393 158.406 111.393 157.634V145.204C111.393 144.431 112.019 143.805 112.792 143.805H125.222C125.995 143.805 126.621 144.431 126.621 145.204V157.634C126.621 158.406 125.995 159.033 125.222 159.033Z'
       stroke='#2396B5'
-      stroke-width='1.1566'
-      stroke-miterlimit='10'
+      strokeWidth='1.1566'
+      strokeMiterlimit='10'
     />
     <path
       d='M125.222 196.994H112.792C112.019 196.994 111.393 196.367 111.393 195.595V183.165C111.393 182.392 112.019 181.766 112.792 181.766H125.222C125.995 181.766 126.621 182.392 126.621 183.165V195.595C126.621 196.361 125.995 196.994 125.222 196.994Z'
       stroke='#2396B5'
-      stroke-width='1.1566'
-      stroke-miterlimit='10'
+      strokeWidth='1.1566'
+      strokeMiterlimit='10'
     />
     <path
       d='M113.259 72.8108L119.001 79.7453L130.052 62.3125'
       stroke='#FFA829'
-      stroke-width='3.4699'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='3.4699'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M113.259 110.451L119.001 117.386L130.052 99.9531'
       stroke='#FFA829'
-      stroke-width='3.4699'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='3.4699'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M70.9248 121.508C70.9248 121.508 71.2113 123.406 71.3911 123.573C71.3911 123.573 71.2113 123.893 70.665 123.919'
@@ -555,50 +555,50 @@ const CreateQuestionnaireIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props)
     <path
       d='M86.9269 133.529L77.7009 132.203'
       stroke='#A1D2F0'
-      stroke-width='0.5742'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5742'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M86.6136 134.921L77.3943 133.602'
       stroke='#A1D2F0'
-      stroke-width='0.5742'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5742'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M82.777 136.076L77.0083 135.25'
       stroke='#A1D2F0'
-      stroke-width='0.5742'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5742'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M82.3641 137.279L76.6021 136.453'
       stroke='#A1D2F0'
-      stroke-width='0.5742'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5742'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M81.9577 138.474L76.189 137.648'
       stroke='#A1D2F0'
-      stroke-width='0.5742'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5742'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M84.0692 145.115L78.3071 144.289'
       stroke='#A1D2F0'
-      stroke-width='0.5742'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.5742'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M72.3306 145.987C72.9502 145.694 73.4098 145.154 73.8494 144.635C74.2824 144.115 74.7154 143.602 75.1551 143.083C75.3283 142.876 75.5081 142.656 75.5281 142.39C74.802 142.33 74.3291 143.276 73.603 143.329C73.9427 142.13 74.429 140.971 75.0485 139.892C75.2017 139.625 75.3616 139.319 75.255 139.039C74.4689 139.339 73.8028 139.898 73.2299 140.518C72.8302 140.951 72.4572 141.417 72.1308 141.91C71.1716 143.362 70.572 145.034 70.1724 146.726'

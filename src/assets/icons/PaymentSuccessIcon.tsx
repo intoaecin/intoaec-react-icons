@@ -21,24 +21,24 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M211.368 1.0625H185.937C184.666 1.0625 183.59 2.13842 183.59 3.40996V14.8538C183.59 16.2232 184.666 17.2013 185.937 17.2013H197.283L205.01 22.6787V17.2013L211.466 17.1035C212.737 17.1035 213.813 16.0276 213.813 14.756V3.40996C213.716 2.13842 212.64 1.0625 211.368 1.0625Z'
       stroke='#B0CDF2'
-      stroke-width='0.4945'
-      stroke-miterlimit='10'
+      strokeWidth='0.4945'
+      strokeMiterlimit='10'
     />
     <path
       d='M415.793 94.0833C415.793 97.2133 413.25 99.8542 410.12 99.8542C406.99 99.8542 404.447 97.3111 404.447 94.0833C404.447 90.9534 406.99 88.3125 410.12 88.3125C413.25 88.3125 415.793 90.8556 415.793 94.0833Z'
       stroke='#B0CDF2'
-      stroke-width='0.4945'
-      stroke-miterlimit='10'
+      strokeWidth='0.4945'
+      strokeMiterlimit='10'
     />
     <path
       d='M67.9769 92.5169C67.9769 95.6469 65.4338 98.2878 62.3039 98.2878C59.1739 98.2878 56.6309 95.7447 56.6309 92.5169C56.6309 89.2892 59.1739 86.7461 62.3039 86.7461C65.4338 86.8439 67.9769 89.387 67.9769 92.5169Z'
       stroke='#B0CDF2'
-      stroke-width='0.4945'
-      stroke-miterlimit='10'
+      strokeWidth='0.4945'
+      strokeMiterlimit='10'
     />
-    <path d='M31.2002 17.3984H97.0269' stroke='#B0CDF2' stroke-width='0.4945' stroke-miterlimit='10' />
-    <path d='M415.206 137.898H378.625' stroke='#B0CDF2' stroke-width='0.4945' stroke-miterlimit='10' />
-    <path d='M76.6819 251.164H35.1123' stroke='#B0CDF2' stroke-width='0.4945' stroke-miterlimit='10' />
+    <path d='M31.2002 17.3984H97.0269' stroke='#B0CDF2' strokeWidth='0.4945' strokeMiterlimit='10' />
+    <path d='M415.206 137.898H378.625' stroke='#B0CDF2' strokeWidth='0.4945' strokeMiterlimit='10' />
+    <path d='M76.6819 251.164H35.1123' stroke='#B0CDF2' strokeWidth='0.4945' strokeMiterlimit='10' />
     <path
       d='M275.824 74.7172C261.055 74.7172 249.122 62.6865 249.122 48.0149C249.122 33.2454 261.153 21.3125 275.824 21.3125C290.594 21.3125 302.527 33.3432 302.527 48.0149C302.625 62.6865 290.594 74.7172 275.824 74.7172ZM275.824 35.1038C268.684 35.1038 262.913 40.8747 262.913 48.0149C262.913 55.1551 268.684 60.9259 275.824 60.9259C282.965 60.9259 288.735 55.1551 288.735 48.0149C288.735 40.8747 282.965 35.1038 275.824 35.1038Z'
       fill='#FFEF64'
@@ -94,10 +94,10 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M252.739 54.3711H282.865'
       stroke='#312220'
-      stroke-width='0.622'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.622'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M300.669 87.7192H236.798C236.016 87.7192 235.429 87.1323 235.429 86.3498C235.429 85.5673 236.016 84.9805 236.798 84.9805H300.669C301.451 84.9805 302.038 85.5673 302.038 86.3498C302.038 87.1323 301.353 87.7192 300.669 87.7192Z'
@@ -140,10 +140,10 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M135.467 52.5156L136.151 54.8631L134.88 55.45'
       stroke='black'
-      stroke-width='0.3662'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.3662'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M132.043 49.8738C132.043 49.8738 132.141 48.211 129.304 48.3088C126.761 48.4067 126.468 49.6782 126.468 49.6782C126.468 49.6782 126.761 51.83 129.5 52.0257C132.141 52.2213 132.043 49.8738 132.043 49.8738Z'
@@ -212,30 +212,30 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M130.674 56.4258C130.674 56.4258 132.337 57.7951 134.782 57.5995'
       stroke='black'
-      stroke-width='0.3662'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.3662'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M125.196 49.9674C125.098 52.4126 126.957 54.4667 129.402 54.5645C131.847 54.6623 133.901 52.8039 133.999 50.3586C134.097 47.9133 132.238 45.8593 129.793 45.7615C127.348 45.6637 125.294 47.5221 125.196 49.9674Z'
       stroke='#FFEF64'
-      stroke-width='0.5115'
-      stroke-miterlimit='10'
+      strokeWidth='0.5115'
+      strokeMiterlimit='10'
     />
     <path
       d='M136.445 50.4555C136.347 52.9008 138.009 54.9548 140.064 55.0526C142.215 55.1504 143.976 53.292 144.074 50.8467C144.172 48.4014 142.509 46.3474 140.455 46.2496C138.303 46.1518 136.542 48.108 136.445 50.4555Z'
       stroke='#FFEF64'
-      stroke-width='0.5115'
-      stroke-miterlimit='10'
+      strokeWidth='0.5115'
+      strokeMiterlimit='10'
     />
     <path
       d='M136.444 50.4568C136.444 50.4568 135.368 49.6743 134.097 50.359'
       stroke='#FFEF64'
-      stroke-width='0.5115'
-      stroke-miterlimit='10'
+      strokeWidth='0.5115'
+      strokeMiterlimit='10'
     />
-    <path d='M125.196 49.8713L121.479 49.7734' stroke='#FFEF64' stroke-width='0.5115' stroke-miterlimit='10' />
+    <path d='M125.196 49.8713L121.479 49.7734' stroke='#FFEF64' strokeWidth='0.5115' strokeMiterlimit='10' />
     <path
       d='M135.565 34.0237C135.565 34.0237 136.445 41.653 118.546 43.5114C118.546 43.5114 114.536 38.9142 119.915 34.904C119.915 34.904 126.175 31.9697 132.826 32.6543C133.902 32.7522 135.565 33.4368 135.565 34.0237Z'
       fill='#2F1D2E'
@@ -255,10 +255,10 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M117.176 51.0383C117.176 51.0383 119.23 50.6471 119.621 53.8749'
       stroke='black'
-      stroke-width='0.3662'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.3662'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path d='M142.608 274.25L141.435 256.938L154.346 257.427L155.03 274.348L142.608 274.25Z' fill='#AF7E5D' />
     <path
@@ -272,26 +272,26 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M161.681 277.574L158.453 279.041'
       stroke='white'
-      stroke-width='0.989'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.989'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M164.909 279.043L161.583 280.51'
       stroke='white'
-      stroke-width='0.989'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.989'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M167.94 280.996L164.811 282.365'
       stroke='white'
-      stroke-width='0.989'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.989'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M139.477 122.746C139.477 122.746 149.356 141.33 152.584 182.802C156.007 227.404 158.551 266.919 158.551 266.919H139.673L122.85 122.746H139.477Z'
@@ -300,10 +300,10 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M138.793 257.918H157.768'
       stroke='#653F67'
-      stroke-width='0.4048'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.4048'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path d='M104.46 274.25L104.851 256.645L117.078 257.231L116.197 274.348L104.46 274.25Z' fill='#AF7E5D' />
     <path
@@ -314,26 +314,26 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M103.971 278.263L99.8633 277.285'
       stroke='white'
-      stroke-width='0.989'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.989'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M101.917 280.412L97.0264 279.434'
       stroke='white'
-      stroke-width='0.989'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.989'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M98.5911 282.369L94.6787 281.488'
       stroke='white'
-      stroke-width='0.989'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.989'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M112.97 122.746C112.97 122.746 105.439 129.299 102.602 161.87C99.7657 194.441 101.917 266.919 101.917 266.919H119.034L130.772 122.746H112.97Z'
@@ -342,18 +342,18 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M127.544 163.243L128.913 145.734'
       stroke='#653F67'
-      stroke-width='0.4048'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.4048'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M101.917 257.918H119.816'
       stroke='#653F67'
-      stroke-width='0.4048'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.4048'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M154.735 137.112C154.735 137.112 175.764 132.222 187.013 129.679L187.893 122.93L153.366 125.864C150.334 125.962 147.986 128.505 148.084 131.537C148.084 134.863 151.507 137.504 154.735 137.112Z'
@@ -378,10 +378,10 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M142.216 106.69C142.216 106.69 143.683 100.332 142.509 92.8984'
       stroke='black'
-      stroke-width='0.3662'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.3662'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M101.722 91.0391C101.722 91.0391 88.5178 102.972 80.2039 118.426C78.6389 121.263 79.617 124.882 82.3558 126.642C84.801 128.207 88.0288 127.816 90.0828 125.762L110.819 102.776L101.722 91.0391Z'
@@ -394,10 +394,10 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M109.255 108.936L117.08 99.7422'
       stroke='black'
-      stroke-width='0.3662'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.3662'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M113.949 139.85L109.352 140.535L89.2028 117.647C87.3444 115.3 83.921 114.908 81.4757 116.767C78.8348 118.821 78.737 123.027 80.9867 125.472C80.9867 125.472 95.8539 138.481 104.853 146.403L107.396 149.533L113.949 139.85Z'
@@ -406,10 +406,10 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M107.396 149.339L116.004 137.406'
       stroke='#653F67'
-      stroke-width='0.4048'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='0.4048'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M323.36 212.627H185.741C181.143 212.627 177.524 208.91 177.524 204.411V125.673C177.524 121.076 181.241 117.457 185.741 117.457H323.36V212.627Z'
@@ -430,7 +430,7 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       fill='#3CA2FF'
     />
     <path d='M219.876 159.316H208.53V160.392H219.876V159.316Z' fill='#3CA2FF' />
-    <path d='M419.998 293.125H-0.00195312' stroke='#2F1D2E' stroke-width='0.4945' stroke-miterlimit='10' />
+    <path d='M419.998 293.125H-0.00195312' stroke='#2F1D2E' strokeWidth='0.4945' strokeMiterlimit='10' />
     <path
       d='M56.8244 56.8132H83.1355V43.5109C83.1355 42.435 82.2552 41.5547 81.1793 41.5547H56.8244C55.7485 41.5547 54.8682 42.435 54.8682 43.5109V54.7592C54.8682 55.9329 55.7485 56.8132 56.8244 56.8132Z'
       fill='#E07C6B'
@@ -467,10 +467,10 @@ const PaymentSuccessIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M321.797 121.951L326.492 126.646L335.588 116.082'
       stroke='white'
-      stroke-width='2.3837'
-      stroke-miterlimit='10'
-      stroke-linecap='round'
-      stroke-linejoin='round'
+      strokeWidth='2.3837'
+      strokeMiterlimit='10'
+      strokeLinecap='round'
+      strokeLinejoin='round'
     />
     <path
       d='M395.838 206.758C406.804 206.758 415.694 197.868 415.694 186.903C415.694 175.937 406.804 167.047 395.838 167.047C384.872 167.047 375.982 175.937 375.982 186.903C375.982 197.868 384.872 206.758 395.838 206.758Z'

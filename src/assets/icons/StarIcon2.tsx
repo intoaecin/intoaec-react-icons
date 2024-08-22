@@ -17,14 +17,14 @@ const StarIcon2: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M10.313 13.7279C10.4713 13.4905 11.0253 13.0156 11.975 13.0156'
       stroke='black'
-      stroke-width='0.5'
-      stroke-linecap='round'
+      strokeWidth='0.5'
+      strokeLinecap='round'
     />
     <path
       d='M19.6909 13.7279C19.5326 13.4905 18.9786 13.0156 18.0289 13.0156'
       stroke='black'
-      stroke-width='0.5'
-      stroke-linecap='round'
+      strokeWidth='0.5'
+      strokeLinecap='round'
     />
     <path
       d='M14.9999 18.4844C13.6703 18.4844 12.7048 19.9881 12.3882 20.6212C12.9422 20.3046 14.0502 19.6715 14.9999 19.6715C15.9684 19.6715 17.0576 20.3046 17.6116 20.6212C17.295 19.9881 16.3295 18.4844 14.9999 18.4844Z'
@@ -65,8 +65,8 @@ const StarIcon2: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='30.7344'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDD00' />
-        <stop offset='1' stop-color='#FFDD00' />
+        <stop stopColor='#FFDD00' />
+        <stop offset='1' stopColor='#FFDD00' />
       </linearGradient>
     </defs>
   </svg>

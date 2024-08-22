@@ -454,8 +454,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='26.156'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#444B8C' />
-        <stop offset='0.9964' stop-color='#26264F' />
+        <stop stopColor='#444B8C' />
+        <stop offset='0.9964' stopColor='#26264F' />
       </linearGradient>
       <linearGradient
         id='paint1_linear_859_37941'
@@ -465,14 +465,14 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='147.445'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FCB148' />
-        <stop offset='0.0521' stop-color='#FDBA46' />
-        <stop offset='0.1424' stop-color='#FFC244' />
-        <stop offset='0.3183' stop-color='#FFC444' />
-        <stop offset='0.4849' stop-color='#FDB946' />
-        <stop offset='0.7754' stop-color='#F99C4D' />
-        <stop offset='0.8658' stop-color='#F8924F' />
-        <stop offset='1' stop-color='#F8924F' />
+        <stop stopColor='#FCB148' />
+        <stop offset='0.0521' stopColor='#FDBA46' />
+        <stop offset='0.1424' stopColor='#FFC244' />
+        <stop offset='0.3183' stopColor='#FFC444' />
+        <stop offset='0.4849' stopColor='#FDB946' />
+        <stop offset='0.7754' stopColor='#F99C4D' />
+        <stop offset='0.8658' stopColor='#F8924F' />
+        <stop offset='1' stopColor='#F8924F' />
       </linearGradient>
       <linearGradient
         id='paint2_linear_859_37941'
@@ -482,8 +482,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='163.673'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint3_linear_859_37941'
@@ -493,8 +493,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='147.598'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint4_linear_859_37941'
@@ -504,16 +504,16 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='140.231'
         gradientUnits='userSpaceOnUse'
       >
-        <stop offset='0.00359712' stop-color='#F36F56' />
-        <stop offset='0.3059' stop-color='#F99C4C' />
-        <stop offset='0.545' stop-color='#FDB946' />
-        <stop offset='0.6817' stop-color='#FFC444' />
-        <stop offset='0.8038' stop-color='#FFC244' />
-        <stop offset='0.8667' stop-color='#FEBA46' />
-        <stop offset='0.916' stop-color='#FCAD49' />
-        <stop offset='0.958' stop-color='#F99A4D' />
-        <stop offset='0.9955' stop-color='#F58152' />
-        <stop offset='1' stop-color='#F57E53' />
+        <stop offset='0.00359712' stopColor='#F36F56' />
+        <stop offset='0.3059' stopColor='#F99C4C' />
+        <stop offset='0.545' stopColor='#FDB946' />
+        <stop offset='0.6817' stopColor='#FFC444' />
+        <stop offset='0.8038' stopColor='#FFC244' />
+        <stop offset='0.8667' stopColor='#FEBA46' />
+        <stop offset='0.916' stopColor='#FCAD49' />
+        <stop offset='0.958' stopColor='#F99A4D' />
+        <stop offset='0.9955' stopColor='#F58152' />
+        <stop offset='1' stopColor='#F57E53' />
       </linearGradient>
       <linearGradient
         id='paint5_linear_859_37941'
@@ -523,14 +523,14 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='142.445'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FCB148' />
-        <stop offset='0.0521' stop-color='#FDBA46' />
-        <stop offset='0.1424' stop-color='#FFC244' />
-        <stop offset='0.3183' stop-color='#FFC444' />
-        <stop offset='0.4849' stop-color='#FDB946' />
-        <stop offset='0.7754' stop-color='#F99C4D' />
-        <stop offset='0.8658' stop-color='#F8924F' />
-        <stop offset='1' stop-color='#F8924F' />
+        <stop stopColor='#FCB148' />
+        <stop offset='0.0521' stopColor='#FDBA46' />
+        <stop offset='0.1424' stopColor='#FFC244' />
+        <stop offset='0.3183' stopColor='#FFC444' />
+        <stop offset='0.4849' stopColor='#FDB946' />
+        <stop offset='0.7754' stopColor='#F99C4D' />
+        <stop offset='0.8658' stopColor='#F8924F' />
+        <stop offset='1' stopColor='#F8924F' />
       </linearGradient>
       <linearGradient
         id='paint6_linear_859_37941'
@@ -540,8 +540,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='158.673'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint7_linear_859_37941'
@@ -551,8 +551,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='142.598'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint8_linear_859_37941'
@@ -562,16 +562,16 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='135.231'
         gradientUnits='userSpaceOnUse'
       >
-        <stop offset='0.00359712' stop-color='#F36F56' />
-        <stop offset='0.3059' stop-color='#F99C4C' />
-        <stop offset='0.545' stop-color='#FDB946' />
-        <stop offset='0.6817' stop-color='#FFC444' />
-        <stop offset='0.8038' stop-color='#FFC244' />
-        <stop offset='0.8667' stop-color='#FEBA46' />
-        <stop offset='0.916' stop-color='#FCAD49' />
-        <stop offset='0.958' stop-color='#F99A4D' />
-        <stop offset='0.9955' stop-color='#F58152' />
-        <stop offset='1' stop-color='#F57E53' />
+        <stop offset='0.00359712' stopColor='#F36F56' />
+        <stop offset='0.3059' stopColor='#F99C4C' />
+        <stop offset='0.545' stopColor='#FDB946' />
+        <stop offset='0.6817' stopColor='#FFC444' />
+        <stop offset='0.8038' stopColor='#FFC244' />
+        <stop offset='0.8667' stopColor='#FEBA46' />
+        <stop offset='0.916' stopColor='#FCAD49' />
+        <stop offset='0.958' stopColor='#F99A4D' />
+        <stop offset='0.9955' stopColor='#F58152' />
+        <stop offset='1' stopColor='#F57E53' />
       </linearGradient>
       <linearGradient
         id='paint9_linear_859_37941'
@@ -581,14 +581,14 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='137.461'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FCB148' />
-        <stop offset='0.0521' stop-color='#FDBA46' />
-        <stop offset='0.1424' stop-color='#FFC244' />
-        <stop offset='0.3183' stop-color='#FFC444' />
-        <stop offset='0.4849' stop-color='#FDB946' />
-        <stop offset='0.7754' stop-color='#F99C4D' />
-        <stop offset='0.8658' stop-color='#F8924F' />
-        <stop offset='1' stop-color='#F8924F' />
+        <stop stopColor='#FCB148' />
+        <stop offset='0.0521' stopColor='#FDBA46' />
+        <stop offset='0.1424' stopColor='#FFC244' />
+        <stop offset='0.3183' stopColor='#FFC444' />
+        <stop offset='0.4849' stopColor='#FDB946' />
+        <stop offset='0.7754' stopColor='#F99C4D' />
+        <stop offset='0.8658' stopColor='#F8924F' />
+        <stop offset='1' stopColor='#F8924F' />
       </linearGradient>
       <linearGradient
         id='paint10_linear_859_37941'
@@ -598,8 +598,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='153.689'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint11_linear_859_37941'
@@ -609,8 +609,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='137.613'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint12_linear_859_37941'
@@ -620,16 +620,16 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='130.247'
         gradientUnits='userSpaceOnUse'
       >
-        <stop offset='0.00359712' stop-color='#F36F56' />
-        <stop offset='0.3059' stop-color='#F99C4C' />
-        <stop offset='0.545' stop-color='#FDB946' />
-        <stop offset='0.6817' stop-color='#FFC444' />
-        <stop offset='0.8038' stop-color='#FFC244' />
-        <stop offset='0.8667' stop-color='#FEBA46' />
-        <stop offset='0.916' stop-color='#FCAD49' />
-        <stop offset='0.958' stop-color='#F99A4D' />
-        <stop offset='0.9955' stop-color='#F58152' />
-        <stop offset='1' stop-color='#F57E53' />
+        <stop offset='0.00359712' stopColor='#F36F56' />
+        <stop offset='0.3059' stopColor='#F99C4C' />
+        <stop offset='0.545' stopColor='#FDB946' />
+        <stop offset='0.6817' stopColor='#FFC444' />
+        <stop offset='0.8038' stopColor='#FFC244' />
+        <stop offset='0.8667' stopColor='#FEBA46' />
+        <stop offset='0.916' stopColor='#FCAD49' />
+        <stop offset='0.958' stopColor='#F99A4D' />
+        <stop offset='0.9955' stopColor='#F58152' />
+        <stop offset='1' stopColor='#F57E53' />
       </linearGradient>
       <linearGradient
         id='paint13_linear_859_37941'
@@ -639,14 +639,14 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='132.46'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FCB148' />
-        <stop offset='0.0521' stop-color='#FDBA46' />
-        <stop offset='0.1424' stop-color='#FFC244' />
-        <stop offset='0.3183' stop-color='#FFC444' />
-        <stop offset='0.4849' stop-color='#FDB946' />
-        <stop offset='0.7754' stop-color='#F99C4D' />
-        <stop offset='0.8658' stop-color='#F8924F' />
-        <stop offset='1' stop-color='#F8924F' />
+        <stop stopColor='#FCB148' />
+        <stop offset='0.0521' stopColor='#FDBA46' />
+        <stop offset='0.1424' stopColor='#FFC244' />
+        <stop offset='0.3183' stopColor='#FFC444' />
+        <stop offset='0.4849' stopColor='#FDB946' />
+        <stop offset='0.7754' stopColor='#F99C4D' />
+        <stop offset='0.8658' stopColor='#F8924F' />
+        <stop offset='1' stopColor='#F8924F' />
       </linearGradient>
       <linearGradient
         id='paint14_linear_859_37941'
@@ -656,8 +656,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='148.689'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint15_linear_859_37941'
@@ -667,8 +667,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='132.613'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint16_linear_859_37941'
@@ -678,16 +678,16 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='125.247'
         gradientUnits='userSpaceOnUse'
       >
-        <stop offset='0.00359712' stop-color='#F36F56' />
-        <stop offset='0.3059' stop-color='#F99C4C' />
-        <stop offset='0.545' stop-color='#FDB946' />
-        <stop offset='0.6817' stop-color='#FFC444' />
-        <stop offset='0.8038' stop-color='#FFC244' />
-        <stop offset='0.8667' stop-color='#FEBA46' />
-        <stop offset='0.916' stop-color='#FCAD49' />
-        <stop offset='0.958' stop-color='#F99A4D' />
-        <stop offset='0.9955' stop-color='#F58152' />
-        <stop offset='1' stop-color='#F57E53' />
+        <stop offset='0.00359712' stopColor='#F36F56' />
+        <stop offset='0.3059' stopColor='#F99C4C' />
+        <stop offset='0.545' stopColor='#FDB946' />
+        <stop offset='0.6817' stopColor='#FFC444' />
+        <stop offset='0.8038' stopColor='#FFC244' />
+        <stop offset='0.8667' stopColor='#FEBA46' />
+        <stop offset='0.916' stopColor='#FCAD49' />
+        <stop offset='0.958' stopColor='#F99A4D' />
+        <stop offset='0.9955' stopColor='#F58152' />
+        <stop offset='1' stopColor='#F57E53' />
       </linearGradient>
       <linearGradient
         id='paint17_linear_859_37941'
@@ -697,14 +697,14 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='127.07'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FCB148' />
-        <stop offset='0.0521' stop-color='#FDBA46' />
-        <stop offset='0.1424' stop-color='#FFC244' />
-        <stop offset='0.3183' stop-color='#FFC444' />
-        <stop offset='0.4849' stop-color='#FDB946' />
-        <stop offset='0.7754' stop-color='#F99C4D' />
-        <stop offset='0.8658' stop-color='#F8924F' />
-        <stop offset='1' stop-color='#F8924F' />
+        <stop stopColor='#FCB148' />
+        <stop offset='0.0521' stopColor='#FDBA46' />
+        <stop offset='0.1424' stopColor='#FFC244' />
+        <stop offset='0.3183' stopColor='#FFC444' />
+        <stop offset='0.4849' stopColor='#FDB946' />
+        <stop offset='0.7754' stopColor='#F99C4D' />
+        <stop offset='0.8658' stopColor='#F8924F' />
+        <stop offset='1' stopColor='#F8924F' />
       </linearGradient>
       <linearGradient
         id='paint18_linear_859_37941'
@@ -714,8 +714,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='143.298'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint19_linear_859_37941'
@@ -725,8 +725,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='127.223'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint20_linear_859_37941'
@@ -736,16 +736,16 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='119.856'
         gradientUnits='userSpaceOnUse'
       >
-        <stop offset='0.00359712' stop-color='#F36F56' />
-        <stop offset='0.3059' stop-color='#F99C4C' />
-        <stop offset='0.545' stop-color='#FDB946' />
-        <stop offset='0.6817' stop-color='#FFC444' />
-        <stop offset='0.8038' stop-color='#FFC244' />
-        <stop offset='0.8667' stop-color='#FEBA46' />
-        <stop offset='0.916' stop-color='#FCAD49' />
-        <stop offset='0.958' stop-color='#F99A4D' />
-        <stop offset='0.9955' stop-color='#F58152' />
-        <stop offset='1' stop-color='#F57E53' />
+        <stop offset='0.00359712' stopColor='#F36F56' />
+        <stop offset='0.3059' stopColor='#F99C4C' />
+        <stop offset='0.545' stopColor='#FDB946' />
+        <stop offset='0.6817' stopColor='#FFC444' />
+        <stop offset='0.8038' stopColor='#FFC244' />
+        <stop offset='0.8667' stopColor='#FEBA46' />
+        <stop offset='0.916' stopColor='#FCAD49' />
+        <stop offset='0.958' stopColor='#F99A4D' />
+        <stop offset='0.9955' stopColor='#F58152' />
+        <stop offset='1' stopColor='#F57E53' />
       </linearGradient>
       <linearGradient
         id='paint21_linear_859_37941'
@@ -755,14 +755,14 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='122.062'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FCB148' />
-        <stop offset='0.0521' stop-color='#FDBA46' />
-        <stop offset='0.1424' stop-color='#FFC244' />
-        <stop offset='0.3183' stop-color='#FFC444' />
-        <stop offset='0.4849' stop-color='#FDB946' />
-        <stop offset='0.7754' stop-color='#F99C4D' />
-        <stop offset='0.8658' stop-color='#F8924F' />
-        <stop offset='1' stop-color='#F8924F' />
+        <stop stopColor='#FCB148' />
+        <stop offset='0.0521' stopColor='#FDBA46' />
+        <stop offset='0.1424' stopColor='#FFC244' />
+        <stop offset='0.3183' stopColor='#FFC444' />
+        <stop offset='0.4849' stopColor='#FDB946' />
+        <stop offset='0.7754' stopColor='#F99C4D' />
+        <stop offset='0.8658' stopColor='#F8924F' />
+        <stop offset='1' stopColor='#F8924F' />
       </linearGradient>
       <linearGradient
         id='paint22_linear_859_37941'
@@ -772,8 +772,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='138.291'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint23_linear_859_37941'
@@ -783,8 +783,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='122.215'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint24_linear_859_37941'
@@ -794,16 +794,16 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='114.849'
         gradientUnits='userSpaceOnUse'
       >
-        <stop offset='0.00359712' stop-color='#F36F56' />
-        <stop offset='0.3059' stop-color='#F99C4C' />
-        <stop offset='0.545' stop-color='#FDB946' />
-        <stop offset='0.6817' stop-color='#FFC444' />
-        <stop offset='0.8038' stop-color='#FFC244' />
-        <stop offset='0.8667' stop-color='#FEBA46' />
-        <stop offset='0.916' stop-color='#FCAD49' />
-        <stop offset='0.958' stop-color='#F99A4D' />
-        <stop offset='0.9955' stop-color='#F58152' />
-        <stop offset='1' stop-color='#F57E53' />
+        <stop offset='0.00359712' stopColor='#F36F56' />
+        <stop offset='0.3059' stopColor='#F99C4C' />
+        <stop offset='0.545' stopColor='#FDB946' />
+        <stop offset='0.6817' stopColor='#FFC444' />
+        <stop offset='0.8038' stopColor='#FFC244' />
+        <stop offset='0.8667' stopColor='#FEBA46' />
+        <stop offset='0.916' stopColor='#FCAD49' />
+        <stop offset='0.958' stopColor='#F99A4D' />
+        <stop offset='0.9955' stopColor='#F58152' />
+        <stop offset='1' stopColor='#F57E53' />
       </linearGradient>
       <linearGradient
         id='paint25_linear_859_37941'
@@ -813,14 +813,14 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='117.077'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FCB148' />
-        <stop offset='0.0521' stop-color='#FDBA46' />
-        <stop offset='0.1424' stop-color='#FFC244' />
-        <stop offset='0.3183' stop-color='#FFC444' />
-        <stop offset='0.4849' stop-color='#FDB946' />
-        <stop offset='0.7754' stop-color='#F99C4D' />
-        <stop offset='0.8658' stop-color='#F8924F' />
-        <stop offset='1' stop-color='#F8924F' />
+        <stop stopColor='#FCB148' />
+        <stop offset='0.0521' stopColor='#FDBA46' />
+        <stop offset='0.1424' stopColor='#FFC244' />
+        <stop offset='0.3183' stopColor='#FFC444' />
+        <stop offset='0.4849' stopColor='#FDB946' />
+        <stop offset='0.7754' stopColor='#F99C4D' />
+        <stop offset='0.8658' stopColor='#F8924F' />
+        <stop offset='1' stopColor='#F8924F' />
       </linearGradient>
       <linearGradient
         id='paint26_linear_859_37941'
@@ -830,8 +830,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='133.306'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint27_linear_859_37941'
@@ -841,8 +841,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='117.231'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint28_linear_859_37941'
@@ -852,16 +852,16 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='109.864'
         gradientUnits='userSpaceOnUse'
       >
-        <stop offset='0.00359712' stop-color='#F36F56' />
-        <stop offset='0.3059' stop-color='#F99C4C' />
-        <stop offset='0.545' stop-color='#FDB946' />
-        <stop offset='0.6817' stop-color='#FFC444' />
-        <stop offset='0.8038' stop-color='#FFC244' />
-        <stop offset='0.8667' stop-color='#FEBA46' />
-        <stop offset='0.916' stop-color='#FCAD49' />
-        <stop offset='0.958' stop-color='#F99A4D' />
-        <stop offset='0.9955' stop-color='#F58152' />
-        <stop offset='1' stop-color='#F57E53' />
+        <stop offset='0.00359712' stopColor='#F36F56' />
+        <stop offset='0.3059' stopColor='#F99C4C' />
+        <stop offset='0.545' stopColor='#FDB946' />
+        <stop offset='0.6817' stopColor='#FFC444' />
+        <stop offset='0.8038' stopColor='#FFC244' />
+        <stop offset='0.8667' stopColor='#FEBA46' />
+        <stop offset='0.916' stopColor='#FCAD49' />
+        <stop offset='0.958' stopColor='#F99A4D' />
+        <stop offset='0.9955' stopColor='#F58152' />
+        <stop offset='1' stopColor='#F57E53' />
       </linearGradient>
       <linearGradient
         id='paint29_linear_859_37941'
@@ -871,14 +871,14 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='112.077'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FCB148' />
-        <stop offset='0.0521' stop-color='#FDBA46' />
-        <stop offset='0.1424' stop-color='#FFC244' />
-        <stop offset='0.3183' stop-color='#FFC444' />
-        <stop offset='0.4849' stop-color='#FDB946' />
-        <stop offset='0.7754' stop-color='#F99C4D' />
-        <stop offset='0.8658' stop-color='#F8924F' />
-        <stop offset='1' stop-color='#F8924F' />
+        <stop stopColor='#FCB148' />
+        <stop offset='0.0521' stopColor='#FDBA46' />
+        <stop offset='0.1424' stopColor='#FFC244' />
+        <stop offset='0.3183' stopColor='#FFC444' />
+        <stop offset='0.4849' stopColor='#FDB946' />
+        <stop offset='0.7754' stopColor='#F99C4D' />
+        <stop offset='0.8658' stopColor='#F8924F' />
+        <stop offset='1' stopColor='#F8924F' />
       </linearGradient>
       <linearGradient
         id='paint30_linear_859_37941'
@@ -888,8 +888,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='128.306'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint31_linear_859_37941'
@@ -899,8 +899,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='112.231'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint32_linear_859_37941'
@@ -910,16 +910,16 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='104.864'
         gradientUnits='userSpaceOnUse'
       >
-        <stop offset='0.00359712' stop-color='#F36F56' />
-        <stop offset='0.3059' stop-color='#F99C4C' />
-        <stop offset='0.545' stop-color='#FDB946' />
-        <stop offset='0.6817' stop-color='#FFC444' />
-        <stop offset='0.8038' stop-color='#FFC244' />
-        <stop offset='0.8667' stop-color='#FEBA46' />
-        <stop offset='0.916' stop-color='#FCAD49' />
-        <stop offset='0.958' stop-color='#F99A4D' />
-        <stop offset='0.9955' stop-color='#F58152' />
-        <stop offset='1' stop-color='#F57E53' />
+        <stop offset='0.00359712' stopColor='#F36F56' />
+        <stop offset='0.3059' stopColor='#F99C4C' />
+        <stop offset='0.545' stopColor='#FDB946' />
+        <stop offset='0.6817' stopColor='#FFC444' />
+        <stop offset='0.8038' stopColor='#FFC244' />
+        <stop offset='0.8667' stopColor='#FEBA46' />
+        <stop offset='0.916' stopColor='#FCAD49' />
+        <stop offset='0.958' stopColor='#F99A4D' />
+        <stop offset='0.9955' stopColor='#F58152' />
+        <stop offset='1' stopColor='#F57E53' />
       </linearGradient>
       <linearGradient
         id='paint33_linear_859_37941'
@@ -929,14 +929,14 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='151.095'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FCB148' />
-        <stop offset='0.0521' stop-color='#FDBA46' />
-        <stop offset='0.1424' stop-color='#FFC244' />
-        <stop offset='0.3183' stop-color='#FFC444' />
-        <stop offset='0.4849' stop-color='#FDB946' />
-        <stop offset='0.7754' stop-color='#F99C4D' />
-        <stop offset='0.8658' stop-color='#F8924F' />
-        <stop offset='1' stop-color='#F8924F' />
+        <stop stopColor='#FCB148' />
+        <stop offset='0.0521' stopColor='#FDBA46' />
+        <stop offset='0.1424' stopColor='#FFC244' />
+        <stop offset='0.3183' stopColor='#FFC444' />
+        <stop offset='0.4849' stopColor='#FDB946' />
+        <stop offset='0.7754' stopColor='#F99C4D' />
+        <stop offset='0.8658' stopColor='#F8924F' />
+        <stop offset='1' stopColor='#F8924F' />
       </linearGradient>
       <linearGradient
         id='paint34_linear_859_37941'
@@ -946,8 +946,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='142.684'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint35_linear_859_37941'
@@ -957,8 +957,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='131.809'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDB44' />
-        <stop offset='1' stop-color='#FEEF06' />
+        <stop stopColor='#FFDB44' />
+        <stop offset='1' stopColor='#FEEF06' />
       </linearGradient>
       <linearGradient
         id='paint36_linear_859_37941'
@@ -968,16 +968,16 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='126.847'
         gradientUnits='userSpaceOnUse'
       >
-        <stop offset='0.00359712' stop-color='#F36F56' />
-        <stop offset='0.3059' stop-color='#F99C4C' />
-        <stop offset='0.545' stop-color='#FDB946' />
-        <stop offset='0.6817' stop-color='#FFC444' />
-        <stop offset='0.8038' stop-color='#FFC244' />
-        <stop offset='0.8667' stop-color='#FEBA46' />
-        <stop offset='0.916' stop-color='#FCAD49' />
-        <stop offset='0.958' stop-color='#F99A4D' />
-        <stop offset='0.9955' stop-color='#F58152' />
-        <stop offset='1' stop-color='#F57E53' />
+        <stop offset='0.00359712' stopColor='#F36F56' />
+        <stop offset='0.3059' stopColor='#F99C4C' />
+        <stop offset='0.545' stopColor='#FDB946' />
+        <stop offset='0.6817' stopColor='#FFC444' />
+        <stop offset='0.8038' stopColor='#FFC244' />
+        <stop offset='0.8667' stopColor='#FEBA46' />
+        <stop offset='0.916' stopColor='#FCAD49' />
+        <stop offset='0.958' stopColor='#F99A4D' />
+        <stop offset='0.9955' stopColor='#F58152' />
+        <stop offset='1' stopColor='#F57E53' />
       </linearGradient>
       <linearGradient
         id='paint37_linear_859_37941'
@@ -987,8 +987,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='89.2712'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint38_linear_859_37941'
@@ -998,8 +998,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='111.123'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#311944' />
-        <stop offset='1' stop-color='#A03976' />
+        <stop stopColor='#311944' />
+        <stop offset='1' stopColor='#A03976' />
       </linearGradient>
       <linearGradient
         id='paint39_linear_859_37941'
@@ -1009,8 +1009,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='153.177'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#444B8C' />
-        <stop offset='0.9964' stop-color='#26264F' />
+        <stop stopColor='#444B8C' />
+        <stop offset='0.9964' stopColor='#26264F' />
       </linearGradient>
       <linearGradient
         id='paint40_linear_859_37941'
@@ -1020,8 +1020,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='111.968'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#311944' />
-        <stop offset='1' stop-color='#A03976' />
+        <stop stopColor='#311944' />
+        <stop offset='1' stopColor='#A03976' />
       </linearGradient>
       <linearGradient
         id='paint41_linear_859_37941'
@@ -1031,8 +1031,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='141.45'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFC444' />
-        <stop offset='0.9964' stop-color='#F36F56' />
+        <stop stopColor='#FFC444' />
+        <stop offset='0.9964' stopColor='#F36F56' />
       </linearGradient>
       <linearGradient
         id='paint42_linear_859_37941'
@@ -1042,8 +1042,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='121.697'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#311944' />
-        <stop offset='1' stop-color='#A03976' />
+        <stop stopColor='#311944' />
+        <stop offset='1' stopColor='#A03976' />
       </linearGradient>
       <linearGradient
         id='paint43_linear_859_37941'
@@ -1053,8 +1053,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='87.0087'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#311944' />
-        <stop offset='1' stop-color='#6B3976' />
+        <stop stopColor='#311944' />
+        <stop offset='1' stopColor='#6B3976' />
       </linearGradient>
       <linearGradient
         id='paint44_linear_859_37941'
@@ -1064,8 +1064,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='78.2986'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint45_linear_859_37941'
@@ -1075,8 +1075,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='75.405'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFC444' />
-        <stop offset='0.9964' stop-color='#F36F56' />
+        <stop stopColor='#FFC444' />
+        <stop offset='0.9964' stopColor='#F36F56' />
       </linearGradient>
       <linearGradient
         id='paint46_linear_859_37941'
@@ -1086,8 +1086,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='129.829'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFC444' />
-        <stop offset='0.9964' stop-color='#F36F56' />
+        <stop stopColor='#FFC444' />
+        <stop offset='0.9964' stopColor='#F36F56' />
       </linearGradient>
       <linearGradient
         id='paint47_linear_859_37941'
@@ -1097,8 +1097,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='79.091'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#0085FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#0085FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint48_linear_859_37941'
@@ -1108,8 +1108,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='102.069'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#444B8C' />
-        <stop offset='0.9964' stop-color='#26264F' />
+        <stop stopColor='#444B8C' />
+        <stop offset='0.9964' stopColor='#26264F' />
       </linearGradient>
       <linearGradient
         id='paint49_linear_859_37941'
@@ -1119,8 +1119,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='97.5059'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#444B8C' />
-        <stop offset='0.9964' stop-color='#26264F' />
+        <stop stopColor='#444B8C' />
+        <stop offset='0.9964' stopColor='#26264F' />
       </linearGradient>
       <linearGradient
         id='paint50_linear_859_37941'
@@ -1130,8 +1130,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='102.403'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#444B8C' />
-        <stop offset='0.9964' stop-color='#26264F' />
+        <stop stopColor='#444B8C' />
+        <stop offset='0.9964' stopColor='#26264F' />
       </linearGradient>
       <linearGradient
         id='paint51_linear_859_37941'
@@ -1141,8 +1141,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='81.354'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint52_linear_859_37941'
@@ -1152,8 +1152,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='99.6056'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFC444' />
-        <stop offset='0.9964' stop-color='#F36F56' />
+        <stop stopColor='#FFC444' />
+        <stop offset='0.9964' stopColor='#F36F56' />
       </linearGradient>
       <linearGradient
         id='paint53_linear_859_37941'
@@ -1163,8 +1163,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='160.526'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint54_linear_859_37941'
@@ -1174,8 +1174,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='160.526'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#3CA2FF' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#3CA2FF' />
       </linearGradient>
       <linearGradient
         id='paint55_linear_859_37941'
@@ -1185,8 +1185,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='116.442'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint56_linear_859_37941'
@@ -1196,8 +1196,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='119.441'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint57_linear_859_37941'
@@ -1207,8 +1207,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='119.279'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint58_linear_859_37941'
@@ -1218,8 +1218,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='119.122'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint59_linear_859_37941'
@@ -1229,8 +1229,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='127.765'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint60_linear_859_37941'
@@ -1240,8 +1240,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='127.473'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint61_linear_859_37941'
@@ -1251,8 +1251,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='127.203'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint62_linear_859_37941'
@@ -1262,8 +1262,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='136.055'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint63_linear_859_37941'
@@ -1273,8 +1273,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='135.639'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint64_linear_859_37941'
@@ -1284,8 +1284,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='135.244'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint65_linear_859_37941'
@@ -1295,8 +1295,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='144.339'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint66_linear_859_37941'
@@ -1306,8 +1306,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='143.814'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
       <linearGradient
         id='paint67_linear_859_37941'
@@ -1317,14 +1317,14 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='143.294'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FCB148' />
-        <stop offset='0.0521' stop-color='#FDBA46' />
-        <stop offset='0.1424' stop-color='#FFC244' />
-        <stop offset='0.3183' stop-color='#FFC444' />
-        <stop offset='0.4849' stop-color='#FDB946' />
-        <stop offset='0.7754' stop-color='#F99C4D' />
-        <stop offset='0.8658' stop-color='#F8924F' />
-        <stop offset='1' stop-color='#F8924F' />
+        <stop stopColor='#FCB148' />
+        <stop offset='0.0521' stopColor='#FDBA46' />
+        <stop offset='0.1424' stopColor='#FFC244' />
+        <stop offset='0.3183' stopColor='#FFC444' />
+        <stop offset='0.4849' stopColor='#FDB946' />
+        <stop offset='0.7754' stopColor='#F99C4D' />
+        <stop offset='0.8658' stopColor='#F8924F' />
+        <stop offset='1' stopColor='#F8924F' />
       </linearGradient>
       <linearGradient
         id='paint68_linear_859_37941'
@@ -1334,8 +1334,8 @@ const EstimateScratchIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => 
         y2='87.6358'
         gradientUnits='userSpaceOnUse'
       >
-        <stop offset='0.00359712' stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#87C5FD' />
+        <stop offset='0.00359712' stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#87C5FD' />
       </linearGradient>
     </defs>
   </svg>

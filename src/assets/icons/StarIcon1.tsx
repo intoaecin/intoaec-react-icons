@@ -29,28 +29,28 @@ const StarIcon1: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       d='M11.9457 12.0234C11.7689 12.377 11.1501 13.1372 10.0894 13.3494'
       stroke='black'
-      stroke-width='0.5'
-      stroke-linecap='round'
+      strokeWidth='0.5'
+      strokeLinecap='round'
     />
     <path
       d='M18.3111 12.0234C18.4879 12.377 19.1067 13.1372 20.1675 13.3494'
       stroke='black'
-      stroke-width='0.5'
-      stroke-linecap='round'
+      strokeWidth='0.5'
+      strokeLinecap='round'
     />
     <path
       d='M10.0894 15.2027C10.7081 15.9099 12.2639 16.8469 13.5368 14.9375'
       stroke='black'
-      stroke-width='0.5'
-      stroke-linecap='round'
+      strokeWidth='0.5'
+      strokeLinecap='round'
     />
     <path
       d='M20.1675 15.2027C19.5487 15.9099 17.9929 16.8469 16.72 14.9375'
       stroke='black'
-      stroke-width='0.5'
-      stroke-linecap='round'
+      strokeWidth='0.5'
+      strokeLinecap='round'
     />
-    <path d='M13.8032 19.4453H16.7203' stroke='black' stroke-linecap='round' />
+    <path d='M13.8032 19.4453H16.7203' stroke='black' strokeLinecap='round' />
     <defs>
       <filter
         id='filter0_f_5949_46602'
@@ -86,8 +86,8 @@ const StarIcon1: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='30.7344'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FFDD00' />
-        <stop offset='1' stop-color='#FFDD00' />
+        <stop stopColor='#FFDD00' />
+        <stop offset='1' stopColor='#FFDD00' />
       </linearGradient>
     </defs>
   </svg>

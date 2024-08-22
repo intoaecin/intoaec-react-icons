@@ -9,9 +9,9 @@ const AscIcon: React.FC<React.SVGProps<SVGSVGElement>> = () => (
     style={{ marginLeft: '10px' }}
     fill='#ffffff'
   >
-    <path d='M9 4.18164L4 4.18164' stroke='white' stroke-linecap='round' stroke-linejoin='round' />
-    <path d='M9 7.18164L1 7.18164' stroke='white' stroke-linecap='round' stroke-linejoin='round' />
-    <path d='M9 1.18164L7 1.18164' stroke='white' stroke-linecap='round' stroke-linejoin='round' />
+    <path d='M9 4.18164L4 4.18164' stroke='white' strokeLinecap='round' strokeLinejoin='round' />
+    <path d='M9 7.18164L1 7.18164' stroke='white' strokeLinecap='round' strokeLinejoin='round' />
+    <path d='M9 1.18164L7 1.18164' stroke='white' strokeLinecap='round' strokeLinejoin='round' />
   </svg>
 )
 

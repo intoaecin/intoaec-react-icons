@@ -1,3 +1,4 @@
+import React from 'react'
 const AddImageIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg xmlns='http://www.w3.org/2000/svg' viewBox='-1 0 20 15' {...props}>
     <g clipPath='url(#clip0_7303_44146)'>

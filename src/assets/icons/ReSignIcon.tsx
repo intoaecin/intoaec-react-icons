@@ -15,8 +15,8 @@ const ReSignIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='25.9014'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#3CA2FF' />
-        <stop offset='1' stop-color='#0062C5' />
+        <stop stopColor='#3CA2FF' />
+        <stop offset='1' stopColor='#0062C5' />
       </linearGradient>
     </defs>
   </svg>

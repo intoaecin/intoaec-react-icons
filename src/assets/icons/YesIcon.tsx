@@ -19,8 +19,8 @@ const YesIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => {
         rx='2'
         fill={'#34AFF9'}
         stroke='black'
-        stroke-opacity='0.2'
-        stroke-width='0.2'
+        strokeOpacity='0.2'
+        strokeWidth='0.2'
       />
       <path
         d='M7.45455 11.3839L4.11364 7.94976L3 9.09447L7.45455 13.6733L17 3.86151L15.8864 2.7168L7.45455 11.3839Z'

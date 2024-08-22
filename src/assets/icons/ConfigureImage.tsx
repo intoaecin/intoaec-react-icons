@@ -1,7 +1,7 @@
 import React from 'react'
 
 const ConfigureImage: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
-  <svg width='100%' height='401' viewBox='0 0 465 401' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <svg width='100%' height='401' viewBox='0 0 465 401' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
     <path
       d='M241.672 370.429C344.535 370.429 427.922 366.22 427.922 361.029C427.922 355.837 344.535 351.629 241.672 351.629C138.809 351.629 55.4219 355.837 55.4219 361.029C55.4219 366.22 138.809 370.429 241.672 370.429Z'
       fill='#D1E6EC'

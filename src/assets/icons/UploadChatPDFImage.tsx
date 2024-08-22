@@ -508,8 +508,8 @@ const UploadChatPDFImage: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='34.1777'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='white' />
-        <stop offset='1' stop-color='#EFEFF4' />
+        <stop stopColor='white' />
+        <stop offset='1' stopColor='#EFEFF4' />
       </linearGradient>
       <linearGradient
         id='paint1_linear_12912_246878'
@@ -519,8 +519,8 @@ const UploadChatPDFImage: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='107.025'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='white' />
-        <stop offset='1' stop-color='#EFEFF4' />
+        <stop stopColor='white' />
+        <stop offset='1' stopColor='#EFEFF4' />
       </linearGradient>
       <linearGradient
         id='paint2_linear_12912_246878'
@@ -530,8 +530,8 @@ const UploadChatPDFImage: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='54.2508'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='white' />
-        <stop offset='1' stop-color='#EFEFF4' />
+        <stop stopColor='white' />
+        <stop offset='1' stopColor='#EFEFF4' />
       </linearGradient>
       <linearGradient
         id='paint3_linear_12912_246878'
@@ -541,8 +541,8 @@ const UploadChatPDFImage: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='34.1768'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='white' />
-        <stop offset='1' stop-color='#EFEFF4' />
+        <stop stopColor='white' />
+        <stop offset='1' stopColor='#EFEFF4' />
       </linearGradient>
     </defs>
   </svg>

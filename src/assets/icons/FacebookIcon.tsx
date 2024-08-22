@@ -17,8 +17,8 @@ const FacebookIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         y2='3.12207'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#0062E0' />
-        <stop offset='1' stop-color='#19AFFF' />
+        <stop stopColor='#0062E0' />
+        <stop offset='1' stopColor='#19AFFF' />
       </linearGradient>
     </defs>
   </svg>

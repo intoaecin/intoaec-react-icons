@@ -10,7 +10,7 @@ const QuestionLinkExpiredBg: React.FC<React.SVGProps<SVGSVGElement>> = (props) =
     xmlnsXlink='http://www.w3.org/1999/xlink'
   >
     <rect width='1440' height='850' rx='10' fill='url(#pattern0)' />
-    <rect width='1440' height='850' rx='10' fill='#F5F6F8' fill-opacity='0.9' />
+    <rect width='1440' height='850' rx='10' fill='#F5F6F8' fillOpacity='0.9' />
     <path
       fillRule='evenodd'
       clipRule='evenodd'

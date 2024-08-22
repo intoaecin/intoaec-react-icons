@@ -212,8 +212,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='61.0071'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#B37CFF' />
-        <stop offset='1' stop-color='#F895E7' />
+        <stop stopColor='#B37CFF' />
+        <stop offset='1' stopColor='#F895E7' />
       </linearGradient>
       <linearGradient
         id='paint1_linear_8989_225760'
@@ -223,8 +223,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='42.263'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#A737D5' />
-        <stop offset='1' stop-color='#EF497A' />
+        <stop stopColor='#A737D5' />
+        <stop offset='1' stopColor='#EF497A' />
       </linearGradient>
       <linearGradient
         id='paint2_linear_8989_225760'
@@ -234,8 +234,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='120.843'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#CB236D' />
-        <stop offset='1' stop-color='#4C246D' />
+        <stop stopColor='#CB236D' />
+        <stop offset='1' stopColor='#4C246D' />
       </linearGradient>
       <linearGradient
         id='paint3_linear_8989_225760'
@@ -245,8 +245,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='74.4181'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#A737D5' />
-        <stop offset='1' stop-color='#EF497A' />
+        <stop stopColor='#A737D5' />
+        <stop offset='1' stopColor='#EF497A' />
       </linearGradient>
       <linearGradient
         id='paint4_linear_8989_225760'
@@ -256,8 +256,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='112.791'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#CB236D' />
-        <stop offset='1' stop-color='#4C246D' />
+        <stop stopColor='#CB236D' />
+        <stop offset='1' stopColor='#4C246D' />
       </linearGradient>
       <linearGradient
         id='paint5_linear_8989_225760'
@@ -267,8 +267,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='43.9781'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint6_linear_8989_225760'
@@ -278,8 +278,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='269.086'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FDF53F' />
-        <stop offset='1' stop-color='#D93C65' />
+        <stop stopColor='#FDF53F' />
+        <stop offset='1' stopColor='#D93C65' />
       </linearGradient>
       <linearGradient
         id='paint7_linear_8989_225760'
@@ -289,8 +289,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='113.185'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint8_linear_8989_225760'
@@ -300,9 +300,9 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='174.85'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#53D8FF' />
-        <stop offset='0.2057' stop-color='#4DB9FD' />
-        <stop offset='1' stop-color='#3840F7' />
+        <stop stopColor='#53D8FF' />
+        <stop offset='0.2057' stopColor='#4DB9FD' />
+        <stop offset='1' stopColor='#3840F7' />
       </linearGradient>
       <linearGradient
         id='paint9_linear_8989_225760'
@@ -312,9 +312,9 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='43.5246'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#53D8FF' />
-        <stop offset='0.2057' stop-color='#4DB9FD' />
-        <stop offset='1' stop-color='#3840F7' />
+        <stop stopColor='#53D8FF' />
+        <stop offset='0.2057' stopColor='#4DB9FD' />
+        <stop offset='1' stopColor='#3840F7' />
       </linearGradient>
       <linearGradient
         id='paint10_linear_8989_225760'
@@ -324,8 +324,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='167.686'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#18459F' />
-        <stop offset='1' stop-color='#2874B5' />
+        <stop stopColor='#18459F' />
+        <stop offset='1' stopColor='#2874B5' />
       </linearGradient>
       <linearGradient
         id='paint11_linear_8989_225760'
@@ -335,8 +335,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='168.025'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#18459F' />
-        <stop offset='1' stop-color='#2874B5' />
+        <stop stopColor='#18459F' />
+        <stop offset='1' stopColor='#2874B5' />
       </linearGradient>
       <linearGradient
         id='paint12_linear_8989_225760'
@@ -346,8 +346,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='179.083'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#18459F' />
-        <stop offset='1' stop-color='#2874B5' />
+        <stop stopColor='#18459F' />
+        <stop offset='1' stopColor='#2874B5' />
       </linearGradient>
       <linearGradient
         id='paint13_linear_8989_225760'
@@ -357,8 +357,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='179.422'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#18459F' />
-        <stop offset='1' stop-color='#2874B5' />
+        <stop stopColor='#18459F' />
+        <stop offset='1' stopColor='#2874B5' />
       </linearGradient>
       <linearGradient
         id='paint14_linear_8989_225760'
@@ -368,8 +368,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='127.665'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FDF53F' />
-        <stop offset='1' stop-color='#D93C65' />
+        <stop stopColor='#FDF53F' />
+        <stop offset='1' stopColor='#D93C65' />
       </linearGradient>
       <linearGradient
         id='paint15_linear_8989_225760'
@@ -379,8 +379,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='127.735'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FDF53F' />
-        <stop offset='1' stop-color='#D93C65' />
+        <stop stopColor='#FDF53F' />
+        <stop offset='1' stopColor='#D93C65' />
       </linearGradient>
       <linearGradient
         id='paint16_linear_8989_225760'
@@ -390,8 +390,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='127.561'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#FDF53F' />
-        <stop offset='1' stop-color='#D93C65' />
+        <stop stopColor='#FDF53F' />
+        <stop offset='1' stopColor='#D93C65' />
       </linearGradient>
       <linearGradient
         id='paint17_linear_8989_225760'
@@ -401,8 +401,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='134.216'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F9B776' />
-        <stop offset='1' stop-color='#F47960' />
+        <stop stopColor='#F9B776' />
+        <stop offset='1' stopColor='#F47960' />
       </linearGradient>
       <linearGradient
         id='paint18_linear_8989_225760'
@@ -412,8 +412,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='166.997'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#CB236D' />
-        <stop offset='1' stop-color='#4C246D' />
+        <stop stopColor='#CB236D' />
+        <stop offset='1' stopColor='#4C246D' />
       </linearGradient>
       <linearGradient
         id='paint19_linear_8989_225760'
@@ -423,8 +423,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='134.976'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F9B776' />
-        <stop offset='1' stop-color='#F47960' />
+        <stop stopColor='#F9B776' />
+        <stop offset='1' stopColor='#F47960' />
       </linearGradient>
       <linearGradient
         id='paint20_linear_8989_225760'
@@ -434,8 +434,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='122.564'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint21_linear_8989_225760'
@@ -445,8 +445,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='165.956'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#CB236D' />
-        <stop offset='1' stop-color='#4C246D' />
+        <stop stopColor='#CB236D' />
+        <stop offset='1' stopColor='#4C246D' />
       </linearGradient>
       <linearGradient
         id='paint22_linear_8989_225760'
@@ -456,8 +456,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='102.833'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint23_linear_8989_225760'
@@ -467,8 +467,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='95.4216'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#A737D5' />
-        <stop offset='1' stop-color='#EF497A' />
+        <stop stopColor='#A737D5' />
+        <stop offset='1' stopColor='#EF497A' />
       </linearGradient>
       <linearGradient
         id='paint24_linear_8989_225760'
@@ -478,8 +478,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='94.6703'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F9B776' />
-        <stop offset='1' stop-color='#F47960' />
+        <stop stopColor='#F9B776' />
+        <stop offset='1' stopColor='#F47960' />
       </linearGradient>
       <linearGradient
         id='paint25_linear_8989_225760'
@@ -489,8 +489,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='90.6022'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F9B776' />
-        <stop offset='1' stop-color='#F47960' />
+        <stop stopColor='#F9B776' />
+        <stop offset='1' stopColor='#F47960' />
       </linearGradient>
       <linearGradient
         id='paint26_linear_8989_225760'
@@ -500,8 +500,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='104.526'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint27_linear_8989_225760'
@@ -511,8 +511,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='89.4906'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F9B776' />
-        <stop offset='1' stop-color='#F47960' />
+        <stop stopColor='#F9B776' />
+        <stop offset='1' stopColor='#F47960' />
       </linearGradient>
       <linearGradient
         id='paint28_linear_8989_225760'
@@ -522,8 +522,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='115.532'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#F9B776' />
-        <stop offset='1' stop-color='#F47960' />
+        <stop stopColor='#F9B776' />
+        <stop offset='1' stopColor='#F47960' />
       </linearGradient>
       <linearGradient
         id='paint29_linear_8989_225760'
@@ -533,8 +533,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='117.785'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint30_linear_8989_225760'
@@ -544,8 +544,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='114.7'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#2B3582' />
-        <stop offset='1' stop-color='#150E42' />
+        <stop stopColor='#2B3582' />
+        <stop offset='1' stopColor='#150E42' />
       </linearGradient>
       <linearGradient
         id='paint31_linear_8989_225760'
@@ -555,8 +555,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='113.6'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#53D8FF' />
-        <stop offset='1' stop-color='#3840F7' />
+        <stop stopColor='#53D8FF' />
+        <stop offset='1' stopColor='#3840F7' />
       </linearGradient>
       <linearGradient
         id='paint32_linear_8989_225760'
@@ -566,8 +566,8 @@ const ProposalLeadEditConcept: React.FC<React.SVGProps<SVGSVGElement>> = (props)
         y2='198.144'
         gradientUnits='userSpaceOnUse'
       >
-        <stop stop-color='#18459F' />
-        <stop offset='1' stop-color='#2874B5' />
+        <stop stopColor='#18459F' />
+        <stop offset='1' stopColor='#2874B5' />
       </linearGradient>
     </defs>
   </svg>

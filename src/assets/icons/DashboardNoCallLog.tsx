@@ -1,3 +1,4 @@
+import React from "react"
 const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg {...props} viewBox='0 0 210 157' fill='none' xmlns='http://www.w3.org/2000/svg'>
     <g opacity='0.5'>
@@ -55,11 +56,11 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       <path
         d='M103.269 104.69L133.404 104.825C134.156 104.83 134.742 105.239 134.909 105.884L136.725 112.717L173.921 112.884'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path d='M97.7197 120.822H152.737V92.619H97.7197V120.822Z' fill='white' />
-      <path d='M102.702 92.6206H141.872' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
+      <path d='M102.702 92.6206H141.872' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
       <path
         d='M120.812 104.304L123.952 110.333H156.27C157.199 110.333 157.951 111.085 157.951 112.014V154.454C157.951 155.383 157.199 156.135 156.27 156.135H94.2898C93.3609 156.135 92.6084 155.383 92.6084 154.454V113.482V110.328V105.075C92.6084 104.146 93.3609 103.394 94.2898 103.394H119.325C119.948 103.403 120.524 103.751 120.812 104.304Z'
         fill='#0099CC'
@@ -67,8 +68,8 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       <path
         d='M94.29 103.404H119.326C119.953 103.404 120.529 103.752 120.816 104.31L123.956 110.339H156.275'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M153.901 120.796C158.806 120.796 162.782 116.82 162.782 111.916C162.782 107.011 158.806 103.035 153.901 103.035C148.997 103.035 145.021 107.011 145.021 111.916C145.021 116.82 148.997 120.796 153.901 120.796Z'
@@ -81,8 +82,8 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       <path
         d='M118.1 141.775C123.553 134.4 130.427 137.428 132.169 141.775'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M116.962 126.336C116.962 128.259 116.103 129.819 115.039 129.819C113.975 129.819 113.116 128.259 113.116 126.336C113.116 124.413 113.975 122.852 115.039 122.852C116.098 122.852 116.962 124.413 116.962 126.336Z'
@@ -104,7 +105,7 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         d='M47.1166 35.3767C47.4046 36.7934 48.7888 37.7084 50.2054 37.4158C51.6221 37.1278 52.5371 35.7436 52.2445 34.327C51.9565 32.9103 50.5724 31.9953 49.1557 32.2879C47.7391 32.5759 46.8287 33.96 47.1166 35.3767Z'
         fill='#D28A7B'
       />
-      <path d='M47.8359 34.3843L49.9075 35.787' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
+      <path d='M47.8359 34.3843L49.9075 35.787' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
       <path
         d='M61.9393 34.8538C62.2272 36.2704 63.6114 37.1854 65.0281 36.8928C66.4447 36.6048 67.3597 35.2207 67.0671 33.804C66.7791 32.3874 65.395 31.4723 63.9783 31.765C62.5617 32.0529 61.6466 33.4371 61.9393 34.8538Z'
         fill='#D28A7B'
@@ -113,7 +114,7 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         d='M64.2566 34.3288C64.2566 34.3288 65.7522 32.6892 65.2274 28.8062H63.1279L64.2566 34.3288Z'
         fill='#121D30'
       />
-      <path d='M64.0713 35.4828L66.1011 33.5181' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
+      <path d='M64.0713 35.4828L66.1011 33.5181' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
       <path
         d='M57.6931 24.0967C61.4507 24.0967 64.5023 27.1437 64.5023 30.906V36.4983C64.5023 36.6376 64.4931 36.7723 64.4745 36.907C64.3769 37.5666 64.0379 38.1751 63.513 38.607L60.754 40.9016C59.9179 41.5983 58.7474 41.733 57.7674 41.2406L52.3933 38.5467C51.4644 38.0775 50.8838 37.13 50.8838 36.0942V30.9013C50.8884 27.1437 53.9354 24.0967 57.6931 24.0967Z'
         fill='#D28A7B'
@@ -121,10 +122,10 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       <path
         d='M54.5029 39.5615L57.6289 41.1315C58.1584 41.3962 58.739 41.5356 59.3335 41.5356H59.5658'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
-      <path d='M58.7616 24.0967L60.4941 36.0152H58.3203' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
+      <path d='M58.7616 24.0967L60.4941 36.0152H58.3203' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
       <path
         d='M64.5031 32.7525V36.2454C64.4242 36.2547 64.3406 36.264 64.2523 36.264C63.2769 36.264 62.4873 35.4743 62.4873 34.4989C62.4873 33.5235 63.2769 32.7386 64.2523 32.7386C64.3359 32.7339 64.4242 32.7386 64.5031 32.7525Z'
         fill='#CB705D'
@@ -154,8 +155,8 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       <path
         d='M57.6934 38.2233C58.613 36.9831 59.7696 37.4894 60.0622 38.2233'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M70.7366 70.0267C72.3716 69.186 73.0126 67.1748 72.1719 65.5398L64.5126 50.2259C63.6719 48.5909 61.6607 47.95 60.0257 48.7907C58.3907 49.6314 57.7498 51.6426 58.5905 53.2775L66.0918 67.9923C66.7142 69.172 67.8383 70.0453 69.1574 70.2357C69.6915 70.31 70.2443 70.2775 70.7366 70.0267Z'
@@ -189,25 +190,25 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         d='M65.127 155.785H82.2849L81.8343 154.252C81.6857 153.75 81.4674 153.291 81.1841 152.868C80.5895 151.976 79.7163 151.289 78.6759 150.922L78.2114 150.759C77.7562 150.597 77.3289 150.388 76.9294 150.132C76.5904 149.914 76.2699 149.663 75.9865 149.38C75.3641 148.771 74.8718 148.028 74.5559 147.192H64.918L65.0759 152.868L65.127 155.785Z'
         fill='#121D30'
       />
-      <path d='M71.7178 148.162H75.1085' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
-      <path d='M72.5918 149.34H75.9825' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
+      <path d='M71.7178 148.162H75.1085' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
+      <path d='M72.5918 149.34H75.9825' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
       <path
         d='M68.3499 151.654C68.3407 151.886 68.5265 152.072 68.754 152.072C68.9816 152.072 69.1767 151.886 69.186 151.654C69.1953 151.422 69.0142 151.236 68.7819 151.236C68.5497 151.236 68.3546 151.422 68.3499 151.654Z'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M70.3939 151.654C70.3846 151.886 70.5658 152.072 70.798 152.072C71.0302 152.072 71.2207 151.886 71.23 151.654C71.2393 151.422 71.0581 151.236 70.8259 151.236C70.5936 151.236 70.4032 151.422 70.3939 151.654Z'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M65.1265 155.786H82.2844L81.8339 154.253C81.6852 153.752 81.4669 153.292 81.1836 152.869H65.0801L65.1265 155.786Z'
         fill='white'
       />
-      <path d='M65.0342 154.333H75.8241' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
+      <path d='M65.0342 154.333H75.8241' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
       <path
         d='M72.6562 155.787H82.2849L81.8344 154.254C81.6857 153.752 81.4674 153.292 81.1841 152.87C80.5896 151.978 79.7163 151.29 78.6759 150.923L78.2114 150.761C77.7562 150.598 77.3289 150.389 76.9295 150.134C74.7 151.17 73.0371 153.278 72.6562 155.787Z'
         fill='white'
@@ -224,20 +225,20 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       <path
         d='M47.0065 76.499H51.4562C51.4562 76.499 49.2592 81.5619 44.8838 81.8963'
         stroke='white'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M66.3665 76.499H63.9141C63.9141 76.499 64.8523 81.2925 68.8329 81.8963'
         stroke='white'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M58.0517 72.8872L57.6244 80.6487C57.6244 80.6487 56.1845 79.8823 56.4911 77.2998'
         stroke='white'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path d='M52.873 71.7671H48.832V73.3742H52.873V71.7671Z' fill='#121D30' />
       <path d='M62.6925 71.7671H61.2852V73.3742H62.6925V71.7671Z' fill='#121D30' />
@@ -249,25 +250,25 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
         d='M38.502 155.785H55.6598L55.5112 154.252C55.4601 153.75 55.3301 153.291 55.1303 152.868C54.7077 151.976 53.9691 151.289 52.9984 150.922L52.5664 150.759C52.1437 150.597 51.7536 150.388 51.4099 150.132C51.1126 149.914 50.8432 149.663 50.6156 149.38C50.1093 148.771 49.7656 148.028 49.6123 147.192H39.9744L39.0315 152.868L38.502 155.785Z'
         fill='#121D30'
       />
-      <path d='M46.5742 148.162H49.9649' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
-      <path d='M47.2197 149.34H50.6058' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
+      <path d='M46.5742 148.162H49.9649' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
+      <path d='M47.2197 149.34H50.6058' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
       <path
         d='M42.524 151.654C42.4729 151.886 42.6169 152.072 42.8491 152.072C43.0813 152.072 43.3089 151.886 43.36 151.654C43.4111 151.422 43.2671 151.236 43.0349 151.236C42.8073 151.236 42.5751 151.422 42.524 151.654Z'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M44.5728 151.654C44.5217 151.886 44.6657 152.072 44.8979 152.072C45.1302 152.072 45.3578 151.886 45.4089 151.654C45.4599 151.422 45.316 151.236 45.0837 151.236C44.8515 151.236 44.6239 151.422 44.5728 151.654Z'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M38.502 155.786H55.6598L55.5112 154.253C55.4601 153.752 55.3301 153.292 55.1303 152.869H39.0222L38.502 155.786Z'
         fill='white'
       />
-      <path d='M49.6073 154.333H38.8174' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
+      <path d='M49.6073 154.333H38.8174' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
       <path
         d='M46.0312 155.787H55.6599L55.5113 154.254C55.4602 153.752 55.3301 153.292 55.1304 152.87C54.7077 151.978 53.9692 151.29 52.9985 150.923L52.5665 150.761C52.1438 150.598 51.7536 150.389 51.4099 150.134C48.9714 151.17 46.8998 153.278 46.0312 155.787Z'
         fill='white'
@@ -294,8 +295,8 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       <path
         d='M66.8255 58.824L64.2012 54.0306L65.4088 51.4062'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M29.2805 68.0415C26.4796 66.6063 23.2236 66.6992 23.2236 66.6992L24.199 60.9814C29.6985 61.6224 31.431 63.9773 32.2067 65.4823L29.2805 68.0415Z'
@@ -308,27 +309,27 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       <path
         d='M19.667 62.6118C19.667 62.6118 21.4506 64.4186 23.0391 65.3012'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M20.1396 61.3403C20.1396 61.3403 21.6353 63.0821 23.6697 63.9554'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M43.6798 69.0205L30.0984 64.3711L28.0361 66.7678C30.3492 69.42 32.9364 71.7563 35.8162 73.4981C39.2626 75.5744 43.6612 73.0429 43.6798 69.0205Z'
         fill='#D28A7B'
       />
-      <path d='M62.6918 137.555L57.8055 87.3076H55.3438' stroke='white' stroke-width='0.75' stroke-miterlimit='10' />
+      <path d='M62.6918 137.555L57.8055 87.3076H55.3438' stroke='white' strokeWidth='0.75' strokeMiterlimit='10' />
       <path
         d='M48.8312 73.3721C48.8312 73.3721 42.8859 81.677 44.1121 90.7715C45.3383 99.866 46.4345 110.921 46.4345 110.921L40.9258 137.554'
         stroke='white'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
-      <path d='M41.929 68.1464L37.6465 66.9062' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
+      <path d='M41.929 68.1464L37.6465 66.9062' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
       <path
         d='M79.5197 62.8429C81.9257 60.8131 85.1166 60.1767 85.1166 60.1767L82.8825 54.8213C77.6664 56.6839 76.5098 59.3639 76.0918 61.0035L79.5197 62.8429Z'
         fill='#D28A7B'
@@ -340,23 +341,23 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       <path
         d='M87.671 55.395C87.671 55.395 86.338 57.5549 84.9863 58.7718'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M86.9232 54.2603C86.9232 54.2603 85.8595 56.2947 84.0713 57.6045'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M65.7119 67.0246L77.8999 59.4443L80.4452 61.3162C78.787 64.4189 76.7898 67.2755 74.3745 69.6211C71.4854 72.4219 66.6316 70.9402 65.7119 67.0246Z'
         fill='#D28A7B'
       />
-      <path d='M67.2158 65.7866L71.1128 63.6128' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
-      <path d='M41.0234 142.055L48.5666 141.767' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
-      <path d='M64.5781 141.912L72.2606 141.285' stroke='#121D30' stroke-width='0.75' stroke-miterlimit='10' />
-      <path d='M5.11914 155.915H206.197' stroke='#121D30' stroke-miterlimit='10' />
+      <path d='M67.2158 65.7866L71.1128 63.6128' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
+      <path d='M41.0234 142.055L48.5666 141.767' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
+      <path d='M64.5781 141.912L72.2606 141.285' stroke='#121D30' strokeWidth='0.75' strokeMiterlimit='10' />
+      <path d='M5.11914 155.915H206.197' stroke='#121D30' strokeMiterlimit='10' />
       <path
         d='M129.079 41.3006C137.24 43.0796 145.4 44.8632 153.557 46.6422C149.827 35.5272 163.724 28.258 159.994 17.1384C151.834 15.3594 143.673 13.5758 135.516 11.7969C139.246 22.9165 125.349 30.1856 129.079 41.3006Z'
         fill='white'
@@ -364,14 +365,14 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       <path
         d='M157.058 31.3889C159.502 26.9577 161.796 22.4941 159.999 17.1433C151.838 15.3643 143.677 13.5807 135.521 11.8018'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M129.078 41.2982C137.239 43.0772 145.4 44.8608 153.556 46.6398C152.367 43.0958 152.971 39.9466 154.22 36.9321'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M112.28 76.3394C119.47 72.0895 126.66 67.8441 133.855 63.5941C123.557 57.9878 128.796 43.2034 118.499 37.5972C111.309 41.8472 104.119 46.0925 96.9238 50.3425C107.217 55.9488 101.982 70.7332 112.28 76.3394Z'
@@ -380,14 +381,14 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       <path
         d='M112.279 76.3404C119.469 72.0905 126.66 67.8451 133.854 63.5951C129.186 61.0498 127.709 56.6233 126.534 52.0156'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M109.623 42.8423C105.391 45.3412 101.155 47.8447 96.9238 50.3436C102.335 53.2884 103.454 58.7693 104.797 64.1201'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M156.308 88.3116C149.118 84.0616 141.928 79.8163 134.733 75.5663C145.031 69.96 139.792 55.1756 150.089 49.5693C157.279 53.8193 164.469 58.0647 171.664 62.3147C161.367 67.9163 166.606 82.7007 156.308 88.3116Z'
@@ -396,14 +397,14 @@ const DashboardNoCallLog: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
       <path
         d='M164.432 73.5322C162.96 79.1896 162.054 85.1767 156.304 88.3073C151.529 85.4879 146.754 82.6639 141.979 79.8445'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
       <path
         d='M143.048 60.0896C144.195 55.8721 145.779 51.9147 150.094 49.5645C153.958 51.845 157.818 54.1256 161.683 56.4109'
         stroke='#121D30'
-        stroke-width='0.75'
-        stroke-miterlimit='10'
+        strokeWidth='0.75'
+        strokeMiterlimit='10'
       />
     </g>
   </svg>

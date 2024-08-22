@@ -18,7 +18,6 @@ import AlignCentre from './assets/icons/AlignCentre'
 import AlignLeft from './assets/icons/AlignLeft'
 import AlignRight from './assets/icons/AlignRight'
 import ApplyActionIcon from './assets/icons/ApplyActionIcon'
-import ArchitectAvailabilityPreviewBg from './assets/icons/ArchitectAvailabilityPreviewBg'
 import ArchiveIcon from './assets/icons/ArchiveIcon'
 import ArchiveTextIcon from './assets/icons/ArchiveTextIcon'
 import ArrowLeftIcon from './assets/icons/ArrowLeftIcon'
@@ -589,7 +588,6 @@ export {
   AlignLeft,
   AlignRight,
   ApplyActionIcon,
-  ArchitectAvailabilityPreviewBg,
   ArchiveIcon,
   ArchiveTextIcon,
   ArrowLeftIcon,
