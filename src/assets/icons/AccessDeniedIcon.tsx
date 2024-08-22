@@ -1,6 +1,6 @@
 /* eslint-disable no-constant-condition */
 import { motion } from 'framer-motion'
-import React,{ SVGProps } from 'react'
+import React, { SVGProps } from 'react'
 
 const AccessDeniedIcon = (props: SVGProps<SVGSVGElement>) => {
   // const controls = useAnimation();
@@ -29,7 +29,7 @@ const AccessDeniedIcon = (props: SVGProps<SVGSVGElement>) => {
       fill='none'
       xmlns='http://www.w3.org/2000/svg'
     >
-      <motion.g id='Access denaid hand vector 1' clip-path='url(#clip0_2_53)'>
+      <motion.g id='Access denaid hand vector 1' clipPath='url(#clip0_2_53)'>
         <path
           id='Vector'
           d='M55.7168 427.562C55.7168 427.562 -25.5055 348.726 26.168 255.975C77.8415 163.224 147.241 209.869 143.883 101.916C140.524 -6.03701 303.491 -15.3131 355.363 15.9896C407.236 47.2923 406.926 84.9909 514.01 72.5168C621.098 60.0428 641.554 164.023 613.694 217.016C574.167 292.204 723.401 279.802 629.367 427.559H55.7168V427.562Z'

@@ -2,14 +2,22 @@
   "name": "intoaec-react-icons",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "types": "./dist/esm/index.d.ts",
   "scripts": {
-    "build": "tsc",
+    "build": "yarn build:esm && yarn build:cjs",
+    "build:esm": "tsc",
+    "build:cjs": "tsc --module commonjs --outDir dist/cjs",
     "lint": "eslint src/**/*.{js,ts,jsx,tsx}",
-    "prettier": "prettier --write \"{src,tests,example/src}/**/*.{js,ts,jsx,tsx}\""
+    "prettier": "prettier --write \"{src,tests,example/src}/**/*.{js,ts,jsx,tsx}\"",
+    "prepare": "npm run build",
+    "prepublishOnly": "npm run prettier && npm run lint"
   },
-  "keywords": [],
-  "author": "",
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "author": "David Jayan",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^18.3.3",
@@ -27,5 +35,11 @@
   },
   "dependencies": {
     "framer-motion": "^11.3.29"
-  }
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "icons",
+    "react-icons"
+  ]
 }
