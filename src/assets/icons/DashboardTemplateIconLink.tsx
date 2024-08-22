@@ -1,3 +1,4 @@
+import React from "react"
 const DashboardTemplateIconLink: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg {...props} viewBox='0 0 15 15' fill='none' xmlns='http://www.w3.org/2000/svg'>
     <g clipPath='url(#clip0_675_1362)'>

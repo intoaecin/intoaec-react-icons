@@ -8,6 +8,7 @@ const LocationIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     fill='none'
     xmlns='http://www.w3.org/2000/svg'
     xlinkHref='http://www.w3.org/1999/xlink'
+    {...props}
   >
     <mask
       id='mask0_843_46758'

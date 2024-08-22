@@ -8,6 +8,7 @@ const BulkSnooze: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     viewBox='0 0 36 35'
     fill='none'
     xmlns='http://www.w3.org/2000/svg'
+    {...props}
   >
     <path
       fillRule='evenodd'

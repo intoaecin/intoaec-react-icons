@@ -1,7 +1,6 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 const NoIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => {
-  const [isHovered, setIsHovered] = useState(false)
   return (
     <svg viewBox='0 0 16 17' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
       <rect y='0.194824' width='16' height='16' rx='2' fill={'#F7685B'} />

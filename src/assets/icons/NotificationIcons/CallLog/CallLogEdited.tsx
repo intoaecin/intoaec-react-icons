@@ -1,5 +1,4 @@
 import React from 'react'
-import ProposalScratchIcon from '../../proposalScratch'
 
 const CallLogEdited: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg

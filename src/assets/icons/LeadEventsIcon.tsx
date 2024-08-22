@@ -8,6 +8,7 @@ const LeadEventsIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     fill='none'
     xmlns='http://www.w3.org/2000/svg'
     xlinkHref='http://www.w3.org/1999/xlink'
+    {...props}
   >
     <rect width='438' height='303' rx='4' fill='url(#pattern0)' />
     <defs>

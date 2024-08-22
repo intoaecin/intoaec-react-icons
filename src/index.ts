@@ -192,7 +192,6 @@ import { ItalicIcon } from './assets/icons/ItalicIcon'
 import ItalicInfoIcon from './assets/icons/ItalicInfoIcon'
 import LeadBg from './assets/icons/LeadBg'
 import LeadCaptureIcon from './assets/icons/LeadCaptureIcon'
-import LeadCaptureThankYouPageBg from './assets/icons/LeadCaptureThankYouPageBg'
 import LeadEventsIcon from './assets/icons/LeadEventsIcon'
 import LeadProfile from './assets/icons/LeadProfile'
 import LeadsIcon from './assets/icons/LeadsIcon'
@@ -762,7 +761,6 @@ export {
   ItalicInfoIcon,
   LeadBg,
   LeadCaptureIcon,
-  LeadCaptureThankYouPageBg,
   LeadEventsIcon,
   LeadProfile,
   LeadsIcon,

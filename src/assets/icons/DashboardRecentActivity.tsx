@@ -1,3 +1,4 @@
+import React from "react"
 const DashboardRecentActivity: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg {...props} viewBox='0 0 25 25' fill='none' xmlns='http://www.w3.org/2000/svg'>
     <g clipPath='url(#clip0_297_17242)'>
