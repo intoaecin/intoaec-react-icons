@@ -1,7 +1,7 @@
 import React from 'react'
 
 const TimeIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
-  <svg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <svg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
     <path
       d='M0 3.71077C0.152192 3.22228 0.245471 2.70434 0.466394 2.24899C1.59433 -0.0768425 4.7339 -0.729794 6.71731 0.927132C6.75167 0.956589 6.78481 0.987273 6.77376 0.977454C4.864 2.93386 2.96038 4.88289 1.0408 6.84788C0.541263 6.27594 0.245471 5.6684 0.0957335 4.98722C0.0613676 4.82766 0.0319112 4.66688 0 4.50732C0 4.24221 0 3.97588 0 3.71077Z'
       fill='#334D6E'

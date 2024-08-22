@@ -1,7 +1,7 @@
 import React from 'react'
 
 const TrainBotStepTwo: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
-  <svg width='80' height='70' viewBox='0 0 80 70' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <svg width='80' height='70' viewBox='0 0 80 70' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
     <path d='M6.50726 4.54085L5.00781 5L13.1959 31.7398L14.6953 31.2807L6.50726 4.54085Z' fill='#1D2233' />
     <path
       d='M48.057 18.4799C54.3294 22.4002 54.3294 28.4113 47.5342 32.0703C41.0004 35.7292 30.285 35.7292 24.0125 31.8089C17.7401 27.8886 17.7401 21.8775 24.5353 18.2186C31.0691 14.5596 41.5232 14.821 48.057 18.4799Z'

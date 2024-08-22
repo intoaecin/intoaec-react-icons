@@ -1,7 +1,7 @@
 import React from 'react'
 
 const QuestionnaireLinkExpiredIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
-  <svg width='271' height='228' viewBox='0 0 271 228' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <svg width='271' height='228' viewBox='0 0 271 228' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
     <path
       d='M103.848 126.188C103.848 126.569 103.541 126.876 103.16 126.876C102.779 126.876 102.472 126.569 102.472 126.188C102.472 125.807 102.779 125.5 103.16 125.5C103.541 125.5 103.848 125.807 103.848 126.188Z'
       fill='#389FE5'

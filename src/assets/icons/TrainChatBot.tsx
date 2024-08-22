@@ -1,7 +1,7 @@
 import React from 'react'
 
 const TrainChatBot: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
-  <svg width='349' height='357' viewBox='0 0 349 357' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <svg width='349' height='357' viewBox='0 0 349 357' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
     <path opacity='0.3922' d='M348.3 83.1562L205.5 0.65625V106.756L348.3 189.256V83.1562Z' fill='#C4C3EC' />
     <path d='M348.3 83.1562L205.5 0.65625V17.3563L348.3 99.8562V83.1562Z' fill='#B7B6E3' />
     <g opacity='0.9'>
