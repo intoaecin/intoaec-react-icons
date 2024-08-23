@@ -17,13 +17,7 @@ export const AddExpiryIcon = (props: React.SVGProps<SVGSVGElement>) => {
         strokeLinecap='round'
         strokeLinejoin='round'
       />
-      <path
-        d='M10.6937 8L6.36035 8'
-        stroke='#3CA2FF'
-        strokeWidth='1.5'
-        strokeLinecap='round'
-        strokeLinejoin='round'
-      />
+      <path d='M10.6937 8L6.36035 8' stroke='#3CA2FF' strokeWidth='1.5' strokeLinecap='round' strokeLinejoin='round' />
     </svg>
   )
 }

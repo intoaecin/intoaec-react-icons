@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react'
 const MatrixChoiceSingle: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg xmlns='http://www.w3.org/2000/svg' viewBox='-1 0 20 15' {...props}>
     <path d='M0.268928 2.72822C0.265628 1.39553 1.39962 0.308473 2.79698 0.304694C4.18773 0.301545 5.33427 1.39238 5.33625 2.72066C5.33823 4.04831 4.19566 5.1423 2.8049 5.14545C1.41216 5.14922 0.272228 4.06279 0.268928 2.72822Z' />

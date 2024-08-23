@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react'
 interface DashboardCalendarProps extends React.SVGProps<SVGSVGElement> {
   date: string
   day: string

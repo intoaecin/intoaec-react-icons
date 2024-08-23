@@ -1,25 +1,7 @@
-/* eslint-disable no-constant-condition */
 import { motion } from 'framer-motion'
 import React, { SVGProps } from 'react'
 
 const AccessDeniedIcon = (props: SVGProps<SVGSVGElement>) => {
-  // const controls = useAnimation();
-
-  // const animateHand = async () => {
-  //   controls.mount()
-  //   await controls.start({ scale: 1.2, transition: { duration: 1 } });
-  //   await controls.start({ scale: 1, transition: { duration: 1 } });
-  // };
-
-  // useEffect(() => {
-  //   (async () => {
-  //     await animateHand();
-  //   })();
-  //   return () => {
-  //     controls.stop();
-  //   };
-  // }, []);
-
   return (
     <svg
       // width="670"

@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react'
 const MapImageIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg width='560' height='582' viewBox='0 0 560 582' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
     <g opacity='0.05'>

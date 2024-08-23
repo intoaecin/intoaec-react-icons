@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react'
 const DashboardRecentCallLogIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg {...props} viewBox='0 0 24 23' fill='none' xmlns='http://www.w3.org/2000/svg'>
     <g clipPath='url(#clip0_349_13626)'>

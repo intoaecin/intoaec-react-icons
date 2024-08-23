@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react'
 const DasshboardLeadSourceIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg {...props} viewBox='0 0 18 25' xmlns='http://www.w3.org/2000/svg'>
     <path
