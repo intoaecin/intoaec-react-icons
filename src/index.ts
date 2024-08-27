@@ -566,7 +566,9 @@ import ZoomIcon from './assets/icons/ZoomIcon'
 import { decreaseIndentIcon } from './assets/icons/decreaseIndentIcon'
 import { increaseIndentIcon } from './assets/icons/increaseIndentIcon'
 import NoAutomationTriggers from './assets/icons/NoAutomationTriggers'
+import { MyVendorIcon } from './assets/icons/MyVendorIcon'
 export {
+  MyVendorIcon,
   FormIcon,
   PhoneIcon,
   AboutMeIcon,
