@@ -567,8 +567,14 @@ import { decreaseIndentIcon } from './assets/icons/decreaseIndentIcon'
 import { increaseIndentIcon } from './assets/icons/increaseIndentIcon'
 import NoAutomationTriggers from './assets/icons/NoAutomationTriggers'
 import { MyVendorIcon } from './assets/icons/MyVendorIcon'
+import { InviteVendorButtonIcon } from './assets/icons/InviteVendorButtonIcon'
+import { InviteVendorMenuIcon } from './assets/icons/InviteVendorMenuIcon'
+import { ManageProductIcon } from './assets/icons/ManageProductIcon'
 export {
   MyVendorIcon,
+  InviteVendorButtonIcon,
+  InviteVendorMenuIcon,
+  ManageProductIcon,
   FormIcon,
   PhoneIcon,
   AboutMeIcon,
