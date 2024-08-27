@@ -1,6 +1,6 @@
 {
   "name": "intoaec-react-icons",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Svg Icons package",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
