@@ -12,6 +12,7 @@ import AddIcon from './assets/icons/AddIcon'
 import AddImageIcon from './assets/icons/AddImageIcon'
 import AddSlotIcon from './assets/icons/AddSlotIcon'
 import AgendaIcon from './assets/icons/AgendaIcon'
+import AddProductIcon from './assets/icons/AddPRoductIcon'
 import AiIcon from './assets/icons/AiIcon'
 import AlertIcon from './assets/icons/AlertIcon'
 import AlignCentre from './assets/icons/AlignCentre'
@@ -70,6 +71,7 @@ import { ChatHistoryBot } from './assets/icons/ChatHistoryBot'
 import { ChatTimeIcon } from './assets/icons/ChatTimeIcon'
 import ChatbotConfigure from './assets/icons/ChatbotConfigure'
 import CheckboxIcon from './assets/icons/CheckboxIcon'
+import CreateServiceIcon from './assets/icons/CreateServiceIcon'
 import ChooseEmailTemplateIcon from './assets/icons/ChooseEmailTemplateIcon'
 import ChoosePreferenceIcon from './assets/icons/ChoosePreferenceIcon'
 import ClientIcon from './assets/icons/ClientIcon'
@@ -329,6 +331,7 @@ import PresentationDeleted from './assets/icons/NotificationIcons/Myorganization
 import PresentationEdited from './assets/icons/NotificationIcons/Myorganization/PresentationEdited'
 import ProfessionalSummary from './assets/icons/NotificationIcons/Myorganization/ProfessionalSummary'
 import PublicationAdded from './assets/icons/NotificationIcons/Myorganization/PublicationAdded'
+import ProdcutScratchIcon from './assets/icons/ProductScratch'
 import PublicationDeleted from './assets/icons/NotificationIcons/Myorganization/PublicationDeleted'
 import PublicationEdited from './assets/icons/NotificationIcons/Myorganization/PublicationEdited'
 import SocialLinkUpdated from './assets/icons/NotificationIcons/Myorganization/SocialLinkUpdated'
@@ -601,6 +604,7 @@ export {
   ArrowRightIcon,
   ArrowRightIcons,
   AscIcon,
+  AddProductIcon,
   AuthIcon,
   AuthPageBgIcon,
   AuthenticationIcon,
@@ -640,6 +644,7 @@ export {
   CertificateColorIcon,
   CertificateIcon,
   CertificateIdCardIcon,
+  CreateServiceIcon,
   CertificateWebsiteIcon,
   ChangeTemplateIcon,
   ChatBotMenuIcon,
@@ -1021,6 +1026,7 @@ export {
   ProposalDeclinedIcon,
   ProposalEditIcon,
   ProposalIcon,
+  ProdcutScratchIcon,
   ProposalLeadAcceptedIcon,
   ProposalLeadClicks,
   ProposalLeadComment,
